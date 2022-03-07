@@ -6,7 +6,7 @@ import re
 
 
 class TextSegmenter():
-    def __init__(self, model_weights, tf_hub_path, max_sentences=256):
+    def __init__(self, model_weights, tf_hub_path, max_sentences=128):
         self.model = Segmenter(max_sentences, tf_hub_path)
         _ = self.model([['Sentence 0', 'sentence 1', 'sentence 3'], ['Sentence 0', 'sentence 1', 'sentence 3']],
                        prepare_inputs=True)

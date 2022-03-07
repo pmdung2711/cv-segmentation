@@ -12,10 +12,10 @@ class Segmenter(tf.keras.Model):
         self.embed = hub.KerasLayer(tf_hub_path, output_shape=[512], input_shape=[],
                                     dtype=tf.string)
         self.recurrent1 = Bidirectional(LSTM(128, input_shape=(None, 512), return_sequences=True))
-        self.dense1 = Dense(256, activation='relu')
+        self.recurrent2 = Bidirectional(LSTM(128, return_sequences=True))
+        self.dense1 = Dense(128, activation='relu')
         self.dropout = Dropout(0.2)
-        self.dense2 = Dense(128, activation='relu')
-        self.dense3 = Dense(2, activation='softmax')
+        self.dense2 = Dense(2, activation='softmax')
 
     def call(self, inputs, prepare_inputs=False):
         if prepare_inputs:
@@ -24,10 +24,10 @@ class Segmenter(tf.keras.Model):
         x = self.embed(x)
         x = tf.reshape(x, [-1, self.max_sentences, 512])
         x = self.recurrent1(x)
+        x = self.recurrent2(x)
         x = self.dense1(x)
         x = self.dropout(x)
-        x = self.dense2(x)
-        outputs = self.dense3(x)
+        outputs = self.dense2(x)
         return outputs
 
     @staticmethod

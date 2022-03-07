@@ -4,7 +4,7 @@ from service.src.modules.search_engine.v1.entity_search import EntityExtractor
 CONFIG = {
     "SEGMENTATION":
         {
-            "SEGMENT_MODEL": "models/segmentation/lite_v3.h5",
+            "SEGMENT_MODEL": "models/segmentation/lite_v2.h5",
             "TFHUB_MODEL": "models/tfhub/sentence_encoder",
             "MAX_SENTENCES": "128"
         },
