@@ -1,2 +1,4 @@
-/backend/service/src/models/*
+/backend/service/src/models/segmentation/*
+/backend/service/src/models/tfhub/*
+
 /frontend/node_modules
