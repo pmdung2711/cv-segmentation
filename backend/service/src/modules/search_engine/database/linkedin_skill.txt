@@ -1,0 +1,4612 @@
+.NET
+.NET Compact Framework
+.NET Core
+.NET Core 2.x
+.NET Core Stack
+.NET Framework
+.NET MVC 4
+.NET Remoting
+.NET WPF
+.NET framework
+.Net
+.Net Core
+.Net Core 2.0
+.Net Developer
+.Net Development
+.Net MVC
+.Net core
+.Net mvc
+.net
+1-Wire
+2D graphics
+3D Animation
+3D Modeling
+3D Rendering
+3D Studio Max
+3D Visualization
+3D game engine
+3D rendering
+3D visualization
+3GPP
+5 Why
+5G New Radio
+5g
+8D Problem Solving
+A3 Problem Solving
+ABAP
+ABAP Dictionary
+ABAP Dictionary enhancement
+ABAP Web Dynpro
+ABAP workbench
+ACCOUNTING SOFTWARE
+ACM
+ADFS
+ADFS 2.0
+ADO.NET
+AEM
+AJAX
+AJAX Frameworks
+ALM
+ALV Grid
+ALV OM
+ALV Reports
+AML
+ANALYSING & INVESTIGATING
+ANGULAR
+ANGULAR 8
+ANOVA
+ANSI C
+ANSYS
+AOP
+APC
+API
+API Development
+API Management
+API Testing
+APIs
+ARAS
+ARM
+ARM Architecture
+ARM Cortex-M
+ASIC
+ASO
+ASP
+ASP.NET
+ASP.NET 2.0/3.5/4.0
+ASP.NET AJAX
+ASP.NET CORE
+ASP.NET Core
+ASP.NET Core 2.x
+ASP.NET Core MVC 3.0.0
+ASP.NET Identity
+ASP.NET Identity Core
+ASP.NET MVC
+ASP.NET MVC 5
+ASP.NET Web API
+ASP.NET Web Forms
+ASP.NET core
+ASP.NET web form/ ASP.NET MVC
+ASP.NET webform
+AT commands
+ATCA
+ATDD
+ATM Networks
+ATPG
+AUTOMOTIVE SPICE
+AUTOSAR
+AUTOSAR OS
+AVR
+AWS
+AWS AppSync
+AWS Chalice
+AWS China
+AWS Cloud
+AWS CloudFormation
+AWS CodePipeline
+AWS Command Line Interface (CLI)
+AWS EC2
+AWS Elastic Beanstalk
+AWS IOT
+AWS Identity and Access Management (AWS IAM)
+AWS IoT
+AWS Lambda
+AWS RDS
+AWS S3
+AWS SDK
+AWS Serverless
+Abap developer
+Acceptance Testing
+Access
+Accessibility
+Account Management
+Account Planning
+Accountability
+Accounting
+Accounting knowledge
+ActionScript
+Active Directory
+Active Server Pages (ASP)
+ActiveMQ
+ActiveRecord
+ActiveX
+Actor moder
+Acumatica
+Acunetix
+Ad Networks
+Ad Serving
+Administration
+Administrative Assistance
+Administrative Assistants
+Administrative Management
+Administrative skills
+Adobe AIR
+Adobe After Effect
+Adobe CC
+Adobe Creative Cloud
+Adobe Creative Suite
+Adobe Experience Design
+Adobe Experience Manager
+Adobe Illustrator
+Adobe Lightroom
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe XD
+AdobeXD
+AdonisJs
+Advertising
+Aerospace
+Aerospike
+Affinity Designer
+After Effects
+Agile
+Agile & Waterfall Methodologies
+Agile (fundamental)
+Agile Application Development
+Agile Environment
+Agile Leadership
+Agile Methodolgy
+Agile Methodologies
+Agile Project Management
+Agile Scrum
+Agile Software Development
+Agile Testing
+Agile Web Development
+Agile coach
+Agile mindset
+Agile, SCRUM Software development methodology.
+Agile/Scrum
+Airflow
+Ajax
+Akka
+Alexa
+Alfresco
+Algorithm
+Algorithm Analysis
+Algorithm Design
+Algorithm Development
+Algorithm Optimization
+Algorithms
+AliCloud
+Alibaba Cloud
+Altera Quatus
+Altium Designer
+Amazon AppSync
+Amazon Athena
+Amazon CloudFront
+Amazon CloudWatch
+Amazon Dynamodb
+Amazon EC2
+Amazon ECS
+Amazon EKS
+Amazon Kinesis
+Amazon RDS
+Amazon Redshift
+Amazon Relational Database Service (RDS)
+Amazon Route 53
+Amazon S3
+Amazon SQS
+Amazon Simple Notification Service (SNS)
+Amazon VPC
+Amazon Web Services
+Amazon Web Services (AWS)
+Amazon web service
+Amdocs CRM
+Amdocs OMS
+Anaconda
+Analysis
+Analysis & Design Tools: ECLIPSE, NETBEAN, VISUAL STUDIO.
+Analyst Relations
+Analytic Problem Solving
+Analytical
+Analytical Reasoning
+Analytical Skills
+Analytics
+Android
+Android (Application, AOSP)
+Android Architecture Component
+Android Data Binding
+Android Design
+Android Developer
+Android Development
+Android Embedded
+Android Jetpack
+Android MVVM
+Android Material Design
+Android NDK
+Android SDK
+Android Studio
+Android Tv
+Android app
+Android memory analysis
+Android-Entwicklung
+Angel Investing
+Anglais
+Angulajs 1 - 2
+Angular
+Angular +
+Angular 2
+Angular 2 + TypeScript
+Angular 2+
+Angular 2,4,5
+Angular 4
+Angular 4-5
+Angular 5
+Angular 6
+Angular 6+
+Angular 6,7
+Angular 7
+Angular 9
+Angular Command Line Interface (CLI)
+Angular JS 2
+Angular JS 4
+Angular Material
+Angular, Flask , PostgreSQL
+Angular.js
+Angular2+
+Angular2JS
+Angular4
+Angular5
+Angular6
+Angular8
+AngularJS
+AngularJS 2
+AngularJS, Angular 2+
+AngularJS, Jquery, JSP, FreeMarker, HTML5, CSS3, Bootstrap
+AngularJs
+Angularjs
+Animation
+Anko Layout
+Ansible
+Ant
+Ant Design
+Anti Money Laundering
+Antivirus
+Apache
+Apache 2
+Apache Airflow
+Apache Ambari
+Apache Ant
+Apache Beam
+Apache CXF
+Apache CXF (Rest and Soap)
+Apache Camel
+Apache Cassandra
+Apache Cordova
+Apache Flink
+Apache Hadoop
+Apache Hive
+Apache Ignite
+Apache Kafka
+Apache Mesos
+Apache Oozie
+Apache Pig
+Apache Solr
+Apache Spark
+Apache Spark GraphX
+Apache Sqoop
+Apache Storm
+Apache Struts
+Apache Synapse
+Apache Thrift
+Apache Tika
+Apache Tiles
+Apache ZooKeeper
+Apigee API Management
+Apollo GraphQL
+Apollo Server
+App Store
+App Store Optimization
+AppSync
+Apparel
+Appcelerator
+Appdynamics
+Appium
+Apple Watch
+Application Architecture
+Application Development
+Application Frameworks
+Application Monitoring
+Application Performance Management
+Application Programming Interfaces
+Application Security
+Application-Specific Integrated Circuits (ASIC)
+Applied Mathematics
+Apprentissage automatique
+Appsee
+ArcGIS
+Arch Linux
+Architectural Design
+Architecture
+Architecture MVC
+Architectures
+Arduino
+Arranging
+Art
+Art Direction
+Art Exhibitions
+Artificial Intelligence
+Artificial Intelligence (AI)
+Artificial Neural Networks
+Artop SDK
+Arxml
+Asana
+Asp.net MVC
+Asp.net core 2.0
+Aspect-Oriented Programming (AOP)
+Assembly Language
+Asset Management
+Assistant Teaching
+Assistant Work
+Assisting Others
+Assurance qualité
+Assurance qualité logiciel
+Astah
+Asterisk
+Astrophysics
+Atlas
+Atlassian Bamboo
+Atlassian JIRA
+Atom
+AtomicCSS
+Attention to detail
+Audio Editing
+Audio Engineering
+Audio Mastering
+Audio Mixing
+Audio Post Production
+Audio Processing
+Audio Recording
+Audit
+Auditing
+Augmented Reality
+Aurelia
+Authentication Protocols
+Auto Layout
+Auto Trading
+AutoCAD
+AutoCAD Electric
+AutoIt
+AutoMapper
+Autodesk BIM 360
+Autofac
+Autolayout
+Automated Software Testing
+Automation
+Automation Anywhere
+Automation Project Testing Skills
+Automation Testing
+Automation Tools
+Automation test CuCumber
+Automation test: Selenium, Appium
+Automation/Selenium
+Automative
+Automotive
+Automotive (IVI)
+Automotive Aftermarket
+Automotive Engineering
+Automotive Infotainment
+Automotive Products
+Automotive SPICE (ASPICE)
+Autonomy
+Avaya Products
+Aviation
+Awk
+Aws
+Aws Cloud
+Aws lambda
+Axis2
+Axon iVY
+Azure
+Azure API Management
+Azure Cloud
+Azure Cosmos DB
+Azure Data Factory
+Azure Databricks
+Azure DevOps
+Azure DevOps Server
+Azure Devops
+Azure Function
+Azure Functions
+Azure IoT
+Azure Resource Manager
+Azure Service Fabric
+B2B
+B2B Marketing
+BADI
+BADIs
+BAPI
+BDC
+BEM
+BI Publisher
+BIRT
+BLE
+Back-End Development
+Back-End Web Development
+Back-end Development
+Back-end Operations
+Back-end Programming
+Backbone
+Backbone.js
+Backend
+Backend Development
+Backlog
+Backtrack
+Balanced Scorecard
+Balsamiq
+Bamboo
+Bank Reconciliation
+Banking
+Banking Software
+BaschScript
+Basecamp
+Bash
+Bash Script
+Bash shell scripts
+Bashell
+Basic C++
+Basic Entity Framework
+Basic Java
+Basic PHP
+Basic WCF
+Batch
+Bayesian statistics
+Bazel
+Be creative at work
+Beacon
+Beats
+Beautiful Soup
+Bedrock
+Behavior-Driven Development (BDD)
+Behavioral & Phone Interview
+Below the Line Advertising
+Benefits Administration
+Benefits Negotiation
+Big Data
+Big Data Analytics
+Big Data Analytics Solution
+Big Query
+Bildbearbeitung
+Billing Systems
+Biochemistry
+Bitbake
+Bitbucket
+Bitcoin
+Bitrise
+BizTalk
+Black Box Testing
+Blaze
+Blazor
+Blockchain
+Blockchain technology
+Blogging
+Blue Prism
+Bluetooth
+Bluetooth Low Energy
+Board Governance
+Board of Directors
+Bokeh
+Boolean Searching
+Boost
+Boost C++
+Booststrap
+Bootstrap
+Bootstrap 4
+Borland Delphi
+Bottle
+Bower
+Box2D
+Brainstorming
+Branch
+Brand Architecture
+Brand Development
+Brand Management
+Brand Strategy
+Branding
+Branding & Identity
+Brazilian Jiu-Jitsu
+Bridge SE
+BridgeSE
+Broadcast
+Broadcasting
+Broadleaf Framework
+Brocade
+Browserify
+Budget Management
+Budgeting
+Budgets
+Bug Tracking
+Bugzilla
+Build Automation
+Build CI
+Build Tools
+Building Automation
+Building Information Modeling (BIM)
+Bullhorn
+Bulma (CSS Framework)
+Burp Suite
+Business
+Business Acumen
+Business Analysis
+Business Analyst
+Business Analytics
+Business Applications
+Business Apps
+Business Architecture
+Business Development
+Business English
+Business Information Systems
+Business Insights
+Business Intelligence
+Business Intelligence (BI)
+Business Intelligence Projects
+Business Management
+Business Mindset
+Business Model Canvas
+Business Modeling
+Business Planning
+Business Process
+Business Process Analysis
+Business Process Design
+Business Process Improvement
+Business Process Management
+Business Process Mapping
+Business Relationship Management
+Business Requirements
+Business Rule Management System (BRMS)
+Business Rules Engine
+Business Strategy
+Business Systems Analysis
+Business Writing
+Business development
+Business model
+Business-to-Business (B2B)
+Business/IT/ERP Planning
+C
+C (Programming Language)
+C (programación)
+C and Java Programming
+C#
+C# ( Web MVC , Web API )
+C# ( updated C# 8.0)
+C# (.NET)
+C# .NET
+C# .Net
+C# 2.0
+C# 4.0
+C# and microsoft technologies
+C#.NET
+C#.Net
+C#/Winforms
+C&B
+C++
+C++ 11
+C++ Language
+C++ Programing
+C++/CX
+C++/Qt,Qml
+C-Shell
+C/ C++
+C/C++
+C/C++ Programming
+C/C++ STL
+C/C++, python
+C/C++/C#/Python
+CAD
+CAD/CAM Software
+CAN
+CAN bus
+CANoe
+CAPL
+CCNA
+CEO/CFO Certification
+CEOs
+CI
+CI/CD
+CICD
+CLI
+CMMI
+CMMI Level 5
+CMS
+CMS (Wordpress)
+CMake
+COBOL
+COM
+CQ5
+CQRS
+CRELoaded
+CRM
+CRM Integration
+CRUD
+CSLA
+CSPO
+CSS
+CSS 3
+CSS Flexbox
+CSS Javascript
+CSS Module
+CSS Sprites
+CSS, SCSS
+CSS/CSS3
+CSS/SASS/LESS/React Styled-Components
+CSS3
+CSS5
+CSSEdit
+CSWA
+CShell
+CTI
+CUDA
+Caching
+Caffe
+Cake PHP
+CakePHP
+Calabash Framework
+Calm
+Camcorder
+Camera
+Campaign Management
+Can-do attitude
+CanJS
+Candidate Assessment
+Candidate Selection
+Candidates Searching
+Capability Maturity Model Integration (CMMI)
+Capacity Building
+Capistrano
+Capital Markets
+Capybara
+Career Counseling
+Career Development
+Cascading Style Sheets (CSS)
+CasePlayer
+Cash Flow Management
+Casino Gaming
+Cassandra
+Casual Games
+Catalyst
+Catering
+Cd
+Celery
+CentOS
+Centos
+Centralization
+Chai
+Change Data Capture
+Change Management
+Change request management
+Channel Partners
+Character Animation
+Characterization
+Charles Proxy
+Chart.js
+Chat Work api
+ChatBot
+Chatbot
+Chatbot Design
+Chatbot Development
+Chatbots
+Checkmarz
+Chef
+Chemical Engineering
+Chemical Physics
+Chinese
+Chrome Developer Tools
+Chrome Extensions
+Cinema 4D
+Cinematography
+CircleCI
+Circuit Design
+Circuit Layout
+Cisco Meraki
+Cisco Routers
+Cisco Technologies
+CiviCRM
+Class Diagrams
+Classical report
+Classification And Regression Trees
+Clawer
+Clean Architecture
+Clean Code
+Clean Coder
+Clean architecture
+Clean code
+ClearCase
+Clerical Skills
+ClickHouse
+Client Relation Management
+Client Relations
+Client-server Application Development
+Client/server
+Clojure
+Closure
+Cloud
+Cloud Administration
+Cloud Applications
+Cloud Computing
+Cloud Development
+Cloud Firestore
+Cloud Foundry
+Cloud Infrastructure
+Cloud Native Interactive Landscape
+Cloud Security
+Cloud Services
+Cloud Storage
+Cloud native
+Cloud services
+Cloud-Native Applications
+Cloud-Native Architecture
+Cloud-based
+Cloudera Impala
+Cloudflare
+Cluster
+Clustering
+Clutter
+Coaching
+Coaching & Mentoring
+Coaching/Training
+Cocoa
+Cocoa Touch
+CocoaPods
+Cocos2D-X
+Cocos2d
+Cocos2d-x
+Cocos2dx
+Code
+Code Composer Studio
+Code Coverage
+Code Review
+CodeIgniter
+Codec
+Codeception
+Coded UI Test
+Coding
+Coding Experience
+Coding Java Developer Webapp
+Coding Practices
+Codorva
+CoffeeScript
+Cohort Analysis
+ColdFusion
+Collaboration
+Collaborative Leadership
+Collaborative Problem Solving
+Command & Control
+Commercial Photography
+Commercials
+Common Lisp
+Communicate
+Communication
+Communication Protocols
+Communication Skill
+Communication Skills
+Communication management
+Communication skills
+Community Development
+Community Outreach
+Community Strategy
+Company Valuation
+Compass
+Compensation & Benefits
+Compensation and Benefits
+Competitive Analysis
+Competitive Programming
+Compilers
+Complex Analysis
+Complex Sales
+Component Architecture
+Composer
+Composers
+Compositing
+Computational Fluid Dynamics (CFD)
+Computer Animation
+Computer Architecture
+Computer Engineering
+Computer Forensics
+Computer Games
+Computer Gaming
+Computer Graphics
+Computer Graphics Design
+Computer Hardware
+Computer Maintenance
+Computer Network Operations
+Computer Networking
+Computer Networks
+Computer Repair
+Computer Science
+Computer Security
+Computer Vision
+Computer software: Work, Excel, Powerpoint, Altium, Matlab, etc
+Computer vison
+Computer-Aided Design (CAD)
+Computer-Aided Engineering (CAE)
+Comunicate
+Concept Art
+Concept Design
+Concept Development
+Concurrency
+Concurrent Programming
+Confident
+Confidentiality
+Conflict Management
+Conflict Resolution
+Confluence
+Conslole Application
+Construction Web Framework
+Constructive Feedback
+Consul
+Consultancy
+Consulting
+Consumer Branding
+Consumer Internet
+Contact Centers
+Container
+Containerization
+Content Delivery
+Content Managed Websites
+Content Management
+Content Management Systems (CMS)
+Content Marketing
+Content Strategy
+Context
+Continous Integration
+Continuous Delivery
+Continuous Improvement
+Continuous Integration
+Continuous Integration and Continuous Delivery (CI/CD)
+Contract Management
+Contract Negotiation
+Contract Recruitment
+Control-M
+Controller Area Network (CAN)
+Controlling
+Conversion Testing
+Convert PSD to HTML/CSS
+Convincing People
+Convolutional Neural Networks (CNN)
+Copy Editing
+Copywriting
+Cordova
+Core Animation
+Core Banking
+Core Data
+Core Graphics
+Core Java
+Core Java, Java Spring. Java MVC, Struts
+Core JavaSoftware Development Life Cycle (SDLC)
+Core java
+Corel Draw
+Corona SDK
+Corporate Branding
+Corporate Communications
+Corporate Development
+Corporate Finance
+Corporate Governance
+Corporate Identity
+Corporate Recruiting
+Corporate Strategy
+Cost Accounting
+CouchBase
+CouchDB
+Couchbase
+Coverity
+Craft CMS
+Creative Direction
+Creative Entrepreneurship
+Creative Financing
+Creative Problem Solving
+Creative Strategy
+Creative Writing
+Creativity
+Creativity Skills
+Creativity in finding new solutions and options
+Credit Cards
+Critical Thinking
+Cross Cultural Management
+Cross Functional Team Building
+Cross-Functional Supervision
+Cross-browser Compatibility
+Cross-cultural Communication Skills
+Cross-functional Coordination
+Cross-functional Team Leadership
+Cross-platform Development
+Cryptocurrency
+Cryptocurrency Trading
+Cryptography
+Crystal Report
+Crystal Reports
+Csh
+Css
+Css3
+Cucumber
+Curl
+Current consumption analysis
+Curriculum Design for PGDM
+Curriculum Development
+Custom Software Development
+Custom Tool Development
+Customer Care
+Customer Data Management (CDM)
+Customer Experience
+Customer Focused Design
+Customer Insight
+Customer Relations
+Customer Relations & Presentations
+Customer Relationship
+Customer Relationship Management (CRM)
+Customer Requirements
+Customer Satisfaction
+Customer Service
+Customer Service Management
+Customer Service Training
+Customer Success
+Customer Support
+Customer exits
+Customer service
+Customerly Thinking
+Cwe
+Cybersecurity
+Cycle en V
+Cycling
+Cypher Query Language
+Cypress
+Cypress.io
+D3.js
+DB2
+DBA
+DBMS
+DBUnit
+DDD
+DDI
+DFD
+DFT
+DFT engineer
+DFT insertion
+DHTML
+DMAIC
+DPDK
+DQL
+DRF
+DRY
+DW/BI
+DWR library
+DaVinci Resolve
+Dagger (Software)
+Dagger 2
+Dancing
+Dapp
+Dapper
+Dapper ORM
+Dart
+Dashboard
+Dashboard Builder
+Data Analysis
+Data Analyst
+Data Analytic
+Data Analytics
+Data Architecture
+Data Caching
+Data Cleaning
+Data Collection
+Data Dictionary
+Data Driven Testing
+Data ETL
+Data Engineering
+Data Entry
+Data Fusion
+Data Governance
+Data JPA
+Data Management
+Data Marts
+Data Migration
+Data Mining
+Data Modeling
+Data Network Design
+Data Processing
+Data Quality
+Data Science
+Data Scraping
+Data Stewardship
+Data Structure and Algorithms
+Data Structures
+Data Structures & Algorithms
+Data Structures & Algorithms (DS&A)
+Data Structures and Algorithms
+Data Transformation
+Data Vault
+Data Visualization
+Data Warehouse Architecture
+Data Warehousing
+Data mining
+Data structures and Algorithms
+Data transfer
+Data-driven Decision Making
+Database
+Database (Oracle, MSSQL, etc.)
+Database Administration
+Database Architecture
+Database Design
+Database Development
+Database MSSQL, Oralce, DB2
+Database Management System (DBMS)
+Database Queries
+Database Security
+Database Systems
+Database Testing
+Databases
+Databases : MYSQL, MS SQL Server 2000, 2005, 2008.
+Datadog
+Datawarehouse
+Deadline Oriented
+Deal Closure
+Debate
+Debian
+Debugging
+Debugging Code
+Decentralization
+Decision Making
+Decision-Making
+Dedicated Professional
+Dedicated to work
+Dedication
+Deep Learning
+Deep Learning/Machine Learning
+Defect Tracking
+Delphi
+Deno
+Dependency Injection
+Deployment System
+Descriptive Analysis
+Design
+Design Consulting
+Design Management
+Design Patents
+Design Pattern
+Design Patterns
+Design Research
+Design Strategy
+Design Systems
+Design Testcase
+Design Thinking
+Design Verification Testing
+Design and develop automation framework (Selenium, Appium, API Testing)
+Design architectural
+Desing Pattern
+Desktop Application Design
+Desktop Application Development
+Desktop Application Support
+Desktop Computers
+Deutsch
+Dev C++
+Dev Express 2010
+DevExpress
+DevExpress Controls
+DevOps
+DevSecOps
+Developers
+Development
+Development Tools
+Device Drivers
+Devops
+Diameter
+Diary
+Dicom conformance
+Digital
+Digital Asset Management
+Digital Audio
+Digital Consulting
+Digital Illustration
+Digital Image Processing
+Digital Libraries
+Digital Marketing
+Digital Media
+Digital Signal Processing
+Digital Signal Processors
+Digital Signatures
+Digital Solutions
+Digital Strategy
+Digital Strategy Consulting
+Digital TV
+Digital Transformation
+Digital Video
+Digital payment
+DigitalOcean
+Direct 2D/3D
+Direct Marketing
+Direct Patient Care
+Direct Sales
+Direct Search
+Direct X
+DirectX
+Directing
+Disaster Recovery
+Discrete Mathematics
+Distributed Caching
+Distributed Systems
+Distributed Teams
+Distributor Management System
+Diversity
+Diversity & Inclusion
+Django
+Django REST Framework
+Django rest framework
+Dlib
+Docker
+Docker & Kubernetes
+Docker Container
+Docker Products
+Docker Swarm
+Docpad
+Document Object Model (DOM)
+Document Review
+Document customer requirements
+Documentation
+Documentum
+Dojo
+Domain Name System (DNS)
+Domain-Driven Design (DDD)
+DomainDriven Design (DDD)
+DotNetNuke
+DotnetNuke
+DoubleClick for Publishers (DFP)
+Drawing
+Drools
+Drools Engine
+Drupal
+Due Diligence
+Dynamic Host Configuration Protocol (DHCP)
+Dynamics
+Dynamics CRM
+Développement Web Back-End
+Développement de logiciel
+Développement d’applications
+Développement front-end
+Développement web
+Développement web back-end
+E-Commerce
+E-Learning
+E-commerce
+E-commerce SEO
+E-payments
+EC2
+ECMA
+ECMAScript
+ECMAScript 6
+EJB
+EJB3
+EMV
+EOS
+EPiServer
+EQ Management
+ERB
+ERD
+ERP
+ERP Implementations
+ERP Software
+ERPNext
+ES6
+ESLint
+ETL
+ETL Tools
+EagleCAD
+Earth Science
+Easily Adaptable
+Ec cube
+Eccube3
+Eclipse
+Eclipse RCP
+Eclise Modeling Framework
+Eco-friendly
+Econometrics
+Economic Data Analysis
+Economics
+Edge
+Editing
+Editorial Photography
+Education
+Educational Leadership
+Educational Technology
+Efficiently communicate
+Ehcache
+Elastic Load Balancing
+Elastic Stack (ELK)
+ElasticSearch
+Elasticsearch
+Electrical Engineering
+Electrical Equipment
+Electrical Wiring
+Electricity
+Electron
+ElectronJS
+Electronics
+Electronics Hardware Design
+Elektrotechnik
+Elementor
+Elicitation
+Elixir
+Elixir Phoenix
+Elm
+Email
+Email Marketing
+Email Template
+Embedded
+Embedded C
+Embedded C++
+Embedded Devices
+Embedded Engineers
+Embedded Linux
+Embedded Operating Systems
+Embedded Software
+Embedded Software Engineer
+Embedded Software Programming
+Embedded Systems
+Ember
+Ember.js
+EmberJs
+Emebedded Programming
+Emerging Markets
+Emmet
+Emotional Intelligence
+Employee Benefits Design
+Employee Engagement
+Employee Learning & Development
+Employee Relations
+Employee Training
+Employer Branding
+Empower
+Encourage people
+Encryption Software
+End-to-end Testing
+End-user mindset
+Energy
+Engineering
+Engineering Change Management
+Engineering Management
+Englisch
+English
+English B2 (Upper-Intermediate)
+English Communication
+English Translation
+English as a Second Language (ESL)
+English, Korean
+Enhancements and Modification
+Enterprise Architecture
+Enterprise Asset Management (EAM)
+Enterprise Content Management
+Enterprise Implementations
+Enterprise JavaBeans (EJB)
+Enterprise Mobility
+Enterprise Resource Planning (ERP)
+Enterprise Software
+Enthusiasm to learn
+Entity Framework
+Entity Framework (EF) Core
+Entity Framework Core
+Entrepreneur
+Entrepreneurship
+Entrepreneurship Development
+Environmental Graphics
+Epicor ERP
+Episerver CMS
+Equities
+Erlang
+Erwin
+Esper
+Espresso
+Essays
+Establishing Lean & Defferentiated Management Education Delivery
+Estimation
+Ethereum
+Ethernet
+Ethical Hacker
+Ethical Hacking
+Etiquette
+Eureka
+Event Driven
+Event Driven Architecture
+Event Driven Programming
+Event Management
+Event Marketing
+Event Planning
+Event Production
+Event Sourcing
+Event blocks
+Event sourcing
+Event-driven Microservices
+Events
+Events Organisation
+Excel
+Excel Pivot
+Excellent ability to use Logic and Reasoning in problem solving
+Excellent at surfing internet and searching information.
+Executive Administrative Assistance
+Executive Management
+Executive Search
+Exhibit Design
+Experience Design
+Experience in Spring framework, Portal Liferay
+Experience in analyzing and designing database
+Experienced Business Analyst
+Exploit
+Express
+Express Js
+Express Node.js
+Express.js
+ExpressJS
+Expression Blend
+Expressjs
+Expresso
+Ext JS
+Ext.Net
+ExtJS
+Extend Language
+External Audit
+Extract, Transform, Load (ETL)
+Extreme Programming
+F#
+FE Japan
+FF&E
+FFMPEG & OpenCV
+FMEA
+FPGA
+FPGA prototyping
+FPT Software Global Software Talent Certificate
+FTP
+FUSA
+Fabric JS
+Face Recognition
+Facebook
+Facebook API
+Facebook Ad
+Facebook Ads
+Facebook Api
+Facebook Marketing
+Facial Recognition
+Facilitation
+Factor Analysis
+Faker Factory
+Familiar with Agile-Scrum methodology
+Familiar with JavaScript, Ajax and CSS
+Fashion
+Fashion Design
+Fast Learning
+Feature Prioritization
+Feature flag
+Fedora
+Feuilles de style en cascade (CSS)
+Ffmpeg
+Field-Programmable Gate Arrays (FPGA)
+Figma
+Figma (Software)
+FileNet
+Filebase, RealmData, CoreData
+Filezilla
+Film
+Film Editing
+Film Production
+FinTech
+Finance
+Finance knowledge
+Financial Accounting
+Financial Advisory
+Financial Analysis
+Financial Controlling
+Financial Markets
+Financial Modeling
+Financial Reporting
+Financial Risk
+Financial Services
+Financial Structuring
+Financial Technology
+Fingerprinting
+Finite Element Analysis (FEA)
+Firebase
+Firewalls
+Firmware
+Flash
+Flash Professional
+Flask
+Flask python
+Flex
+Flexibility
+Flexibility in changes needed or adaptation to change requirements
+Flow
+Flow Charts
+Fluent Office Computing (Word, Excel, Outlook, Power-point)
+Fluent in English and Vietnamese
+Fluentd
+Flume
+Flute
+Flutter
+Flux
+Flyway
+Forecasting
+Foreign Exchange (FX) Trading
+Foreign Languages
+Forensic
+Forex Trading
+Formal Methods
+Formation
+Fortran
+Forum YAF
+Foundation
+Foundation Design
+Foundation Framework
+Foundations
+Foundry
+Framework Sping
+Framework Spring
+Français
+Fraud
+Fraud Detection
+FreeRTOS
+Freelancer
+Freelancer & Vendor Management
+Freemarker
+French
+Front-end
+Front-end Coding
+Front-end Design
+Front-end Development
+Front-end Engineering
+Frontend (Angular 4 / React + Redux / RxJs) - TypeScript
+Frontend-Entwicklung
+Fuego
+Fuel
+Fuel PHP
+FuelPHP
+Full Text Search
+Full-Stack
+Full-Stack Development
+Full-life Cycle Recruiting
+Full-stack
+Full-stack Development
+Function group
+Function modules
+Functional Programming
+Functional Programming (RxJava)
+Functional Requirements
+Functional Safety
+Functional Specifications
+Functional Testing
+Fundraising
+Furniture
+GCC
+GCloud
+GDB
+GDI
+GDI+
+GIMP
+GIS
+GIS Application
+GIS Modeling
+GIT
+GLSL
+GNU tools
+GNU/Linux
+GORM
+GPRS
+GPS Applications
+GPS devices
+GSM
+GTP
+GUI Designing
+GUI test automation
+GWT
+Galen framework
+Game Art
+Game Audio
+Game Design
+Game Developers
+Game Development
+Game Development Management
+Game Engine Development
+Game Engines
+Game Management
+Game Mechanics
+Game Programming
+Game Testing
+Game Theory
+Gameplay
+Gamification
+Gaming Industry
+Gaming Law
+GatsbyJS
+Gearman
+Geek Culture
+Gemba Kaizen
+General Administration
+General English
+General Management
+General Packet Radio Service (GPRS)
+Generic Programming
+Genetic Algorithms
+Genkins
+GeoMedia Professional
+GeoServer
+Geographic Information Science
+Geographic Information Systems (GIS)
+Geological Mapping
+Gerit
+German
+Geronimo
+Gerrit
+Gestion d'équipe
+Gestion de projet
+Gestion des données
+Gevent
+Gherkin
+Gigabit-Capable Passive Optical Network (GPON)
+Git
+Git BASH
+GitFlow
+GitHub
+GitLab
+Github
+Github Actions
+Gitlab
+Gitlab Runner CI/CD
+Glassfish
+Global Human Resources Management
+Globalization
+GlusterFS
+Go
+Go (Programming Language)
+Go-to-market Strategy
+GoCD
+Golang
+Golang (Go)
+Good Communication
+Good English skill for researching document and comunication
+Good Peripheral module such as: PWM, ADC, Compare, Capture, I2C, SPI, UART
+Good ability to work in team, develop plans, work schedules and budgets
+Good communication skills in all areas
+Good in Hardware, schematic
+Google AMP
+Google API
+Google Ads
+Google Adwords
+Google Analytics
+Google App Engine
+Google App Maker
+Google App Script
+Google BigQuery
+Google Cloud
+Google Cloud Platform
+Google Cloud Platform (GCP)
+Google Data Studio
+Google Drive
+Google Firebase
+Google Groups
+Google Kubernetes Engine (GKE)
+Google Maps
+Google Maps API
+Google Material Design
+Google Search
+Google Tag Manager
+Google Test
+GoogleMock
+GoogleTest
+Googling
+Governance
+Government
+Gradle
+Graduate Recruitment
+Grafana
+Grails
+Graph Databases
+GraphDb
+GraphQL
+Graphic Design
+Graphics
+Graphics Software
+Graphql
+GreenHill Multi
+Groovy
+Groovy and Grails
+Groovy on Grails
+Group Work
+Growth Hacking
+Grunt
+GruntJS
+Gstreamer
+Guava library
+Guice
+Guitar
+Gulp
+Gulp.js
+Gunicorn
+H.248
+H.323
+HBase
+HILS
+HLSL
+HMI
+HP Application Lifecycle Management
+HP QuickTest Professional (QTP)
+HP-UX
+HPサーバー
+HR Consulting
+HR General
+HR Management
+HR Policies
+HR Project Management
+HR Software
+HR Strategy
+HRIS
+HTML
+HTML & CSS
+HTML & HTML5
+HTML + CSS
+HTML / HTML5
+HTML 5
+HTML CSS JavaScript
+HTML Emails
+HTML Scripting
+HTML&CSS
+HTML+CSS
+HTML, CSS
+HTML, CSS (Basic)
+HTML, CSS, Javascript, PHP, Android
+HTML/CSS
+HTML/CSS/JS
+HTML/CSS/SCSS
+HTML/CSS/SQL Server/ EntityFrameWork
+HTML5
+HTML5 / CSS3 / Java Script
+HTML5, SASS, LESS
+HTML5,CSS3,ANGULARJS,ANGULAR CLI, NODEJS, REACTJS-REUDX,JAVASCRIPT
+HTML5/CSS
+HTML5/CSS3 ( Boostrap3,Bootstrap4 Framework)
+HTTP
+HTTPS
+Hacking
+Hadoop
+Halcon
+Haml
+Hanami
+Handlebars.js
+Hapi.js
+Hard working
+Hard working, well-organized and high sense of responsibility
+Hardware
+Hardware Architecture
+Hardware Development
+Hardware Installation
+HashiCorp
+Haskell
+Have knowleage about communication modules as: UART, USDHC and FLEXRAY
+Have knowleage about security module as PASS
+Hazelcast
+Hbase
+Headhunting
+Health Insurance
+Healthcare
+Helm
+Helm Charts
+Heroku
+Heroku Cloud Platform
+Hessian
+Hiberbate
+Hiberna
+Hibernate
+Hibernate 3.1
+High Availability
+High Availability Clustering
+High Level Design
+High Performance Computing (HPC)
+High Performer
+High performance programing with GPU cuda
+Highcharts
+Higher Education
+Highly responsible
+Hirbenate
+Hiring
+History
+Hitachi JP1
+Hive
+Holistic
+Home Automation
+Hooks
+HornetQ
+Hospitality Industry
+Hotels
+Html
+Html css
+Html css jquery
+Html, Css
+Html/CSS
+HubSpot
+Hubspot
+Human Capital
+Human Capital Development
+Human Capital Management
+Human Computer Interaction
+Human Resource Development
+Human Resource Management System
+Human Resources
+Human Resources (HR)
+Human Resources Information Systems (HRIS)
+Humor
+Hunting
+Hybrid App
+Hybrid Mobile App
+Hybris
+Hygieia Dashboard
+Hyper-V
+Hystrix
+I2C
+IAR Embedded Workbench
+IBM BPM
+IBM Cloud
+IBM Cloudant
+IBM DB2
+IBM Rational Tools
+IBM Tivoli Workload Scheduler (TWS)
+IBM Websphere
+ICO
+ICO (Initial Coin Offering)
+ICON
+ICT industry Knowledge
+IDA Pro
+IDoc
+IEEE 802.11
+IELTS
+IELTS 6.0
+IIS
+IIS and related technologies
+IMB Cloud Functions
+IMS Architechture
+IOS Firewall
+IOT
+IP
+IP Multimedia Subsystem
+IP Networking
+IPC
+IPTV
+ISO 26262
+ISO 9000
+ISO 9001
+ISO Standards
+ISO8583
+ISTQB
+IT Automation
+IT Governance
+IT Hardware Support
+IT Infrastructure Management
+IT Infrastructure Operations
+IT Management
+IT Operations
+IT Outsourcing
+IT Recruitment
+IT Service Management
+IT Solutions
+IT Strategy
+IT consulting
+IT system integration
+ITC
+ITIL
+ITIL Certified
+ITK
+Ibatis
+Identity Management
+Identity Server
+IdentityServer4
+Illustration
+Illustrator
+Image Compression
+Image Processing
+In-Vehicle Infotainment (IVI)
+InDesign
+Inbound Marketing
+Income Tax
+Independence
+Independent Thinking
+Indexing
+Individual Work
+Individualization
+Industrial Design
+Industrial Internet of Things (IIoT)
+Industry 4.0
+InfluxDB
+InfoPath Forms
+Infor SunSystem
+Informatica
+Information Architecture
+Information Management
+Information Retrieval
+Information Security
+Information Seeking
+Information System
+Information Systems
+Information Technology
+Information Technology Project Management
+Informatique
+Infragistics
+Infrastructure
+Infrastructure Management
+Infrastructure Monitoring
+Inkscape
+Innovation
+Innovation Management
+Insomnia
+Instagram
+Installshield
+Instructional Design
+Insurance
+Insurance Law
+Integrated Marketing
+Integration
+Integration Testing
+Integry
+InteliJ
+IntelliJ IDEA
+Inter-process Communication
+Interaction Design
+Interactive Web Content
+Intercom
+Intercultural Communication
+Interior Architecture
+Interior Design
+Internal & External Communications
+Internal Audit
+Internal Communications
+Internal Process Development
+Internal table
+International Business
+International Relations
+International Trade
+Internet
+Internet Banking
+Internet Business Strategy
+Internet Explorer
+Internet Information Services (IIS)
+Internet Protocol (IP)
+Internet Protocol Suite (TCP/IP)
+Internet Recruiting
+Internet Security
+Internet of
+Internet of Things
+Internet of Things (IoT)
+Interpersonal Communication
+Interpersonal Communication Skills
+Interpersonal Skills
+Interpretation
+Interpreting
+Interview
+Interview Preparation
+Interviewing
+Interviewing Skills
+Interviews
+Intrusion Detection
+Inventory Management
+Inversion of Control (IoC)
+Investment Advisory
+Investment Banking
+Investment Management
+Investments
+InvisionApp
+IoC
+IoT
+IoT Solutions
+Ionic
+Ionic 2
+Ionic Framework
+Issue escalation
+Issue management
+J#
+J1939
+J2EE
+J2EE Application Development
+J2EE Web Services
+J2ME
+J2ME Development
+J2SE
+JAVA
+JAVA EE
+JAVA/ C/ PHP
+JAVASCRIPT/ TYPESCRIPT (for angular)
+JAX-WS
+JBoss
+JBoss Application Server
+JBoss EAP
+JBoss Seam
+JDBC
+JDeveloper
+JHipster
+JIRA
+JMS
+JMX
+JMeter
+JMockit
+JPA
+JPA2
+JQuery
+JS, HTML, CSS, JQUERY
+JS,HTML,CSS
+JSF
+JSON
+JSON Web Token (JWT)
+JSONP
+JSP
+JSP-Servlet
+JSP/Servelet
+JSTL
+JScript.NET
+JUnit
+Jade
+Jaegertracing
+Jakarta EE
+Jama
+Janpanese and English
+Japanese
+Japanese Culture
+Japanese Language Proficiency Test
+Japanese Translation
+Japanese and English translating
+Japanese-Language Proficiency Certificate N3
+Jasmine Framework
+Jasper Report
+Jasper Reports
+Java
+Java / Socket Server
+Java 8
+Java Application Development
+Java Architecture for XML Binding (JAXB)
+Java CMS framework: Magnolia CMS
+Java Concurrency
+Java Database Connectivity (JDBC)
+Java Developer
+Java Development
+Java EE
+Java Enterprise Architecture
+Java Enterprise Edition
+Java Frameworks
+Java J2EE
+Java J2EE, Java Swing, JSP/Servlet, Strusts, Hibernate
+Java Message Service (JMS)
+Java Native Interface (JNI)
+Java Portlet
+Java Programming
+Java Script
+Java Spring
+Java Stack (Spring, MySQL, Angular)
+Java Swing
+Java Swing Application
+Java Virtual Machine (JVM)
+Java Web
+Java Web (Struts 2 and Hibernate)
+Java Web Developer
+Java Web Server
+Java Web Services
+Java spring framework
+Java swing and awt
+Java, .NodeJS, .Net, Android, iOS, Automation Test, Test
+Java/J2EE web based technologies
+Java/Java8
+JavaBeans
+JavaCard 2
+JavaEE
+JavaFX
+JavaSE
+JavaScript
+JavaScript ( Jquery, AngularJS , Angular, VueJS)
+JavaScript (Programming Language), Front-End
+JavaScript ES6-ES7
+JavaScript Libraries
+JavaScript OOP
+JavaScript eXtension (JSX)
+JavaScript, JQuery (Basic)
+JavaServer Faces (JSF)
+JavaServer Pages (JSP)
+JavaServer Pages Standard Tag Library (JSTL)
+Javacsript
+Javascript
+Javascript (AngularJs, NodeJs)
+Javascript (JQuery, knockout JS,...)
+Javascript MVC
+Javascript/ES6/typescript, ReactJS, React Native, VueJS
+Javascript/jQuery
+Javaserver Pages (jsp)
+Jboss
+Jboss WildFly
+Jekyll
+Jenkin CI/CD
+Jenkins
+Jenkins CI
+Jenkins X
+Jenkins-X
+Jersey
+Jerseys
+Jest
+Jetty
+Jhipster
+Jira
+Jira, SVN, GIT
+Job Coaching
+Job Description Development
+Job Estimating
+Job Evaluation
+Job Fairs
+Job Postings
+Job Scanning
+Job Scheduling
+Job Search
+Joint Ventures
+Joomla
+Journals
+Jquery
+JsGrid
+Jsp
+Jsp/Servlet
+Jubula
+Julia
+Jump Rope
+Junit/Mockito
+Jupyter
+K2 Blackpearl
+KPI Implementation
+KPI Reports
+KVM
+KYC
+Kafka
+Kafka Streams
+Kaizen
+Kali Linux
+Kanban
+Karaf
+Karma
+Katalon Studio
+Keen Listener
+Keil
+Kendo
+Kendo UI
+Kendo Ui
+KendoUI
+Keras
+Kerberos
+Kernel
+Kernel Debugging
+Kernel Drivers
+Kernel Programming
+Kernel-based Virtual Machine (KVM)
+Key Management
+Keycloak
+Keyword Research
+Kibana
+Kinect
+Knockout.js
+KnockoutJS
+Know programming language: Java, C#
+Know some frameworks and technologies such as: hibernate, strut,EJB,JSF,JPA
+Know unit test
+Know web server: tomcat, jboss
+Knowledgaholic
+Knowledge Graphs
+Knowledge Management
+Knowledge Sharing
+Knowledge of HTML, CSS, XML, JavaScript
+Knowledge of Version control systems (Git, SVN)
+Knowledge of Wordpress
+Knowledge of the software development lifecycle
+Koa.js
+Kohana
+Kohana Framework
+Kong API Gateway
+Kong Balancer
+Kotlin
+Kubernetes
+L&D
+LAMP
+LDAP
+LESS
+LESS (Stylesheet Language)
+LESSCSS
+LINQ
+LLVM
+LORA Technology
+LSMW
+LTE
+LaTeX
+LabVIEW
+Labor Relations
+Labor and Employment Law
+Lambda Architecture
+Lambda Expressions
+Language Integrated Query (LINQ)
+Language Pedagogy
+Language Teaching
+Languages : JAVA, PHP, Java Script, XML.
+Laravel
+Laravel Framework
+Laravel framework
+Large Scale Events
+Large Scale System Integration
+Large Scale Systems
+Launching Start-ups
+Launchpad
+Layout
+Layout Design
+Lead Development
+Lead Generation
+Lead Management
+LeaderShip
+Leadership
+Leadership Development
+Leadership d'équipe
+Leadership d’équipe
+Leading Development Teams
+Leading Meetings
+Lean Management
+Lean Manufacturing
+Lean Six Sigma
+Lean Software Development
+Lean Startup
+Lean Thinking
+Learn New Software Quickly
+Learning Management Systems
+Learning fast
+Lecturing
+Letter Writing
+Licensing
+Life Skills
+Liferay
+Liferay Portal
+Lighting
+Lighting Design
+LinQ
+Linear Algebra
+Linguistics
+Link Building
+LinkedIn
+LinkedIn API
+LinkedIn Learning
+LinkedIn Recruiter
+Linq
+Linux
+Linux (Working environment)
+Linux Application Development
+Linux Desktop
+Linux Development
+Linux Distributions
+Linux Driver
+Linux KVM
+Linux Kernel
+Linux Network Administration
+Linux OS
+Linux Python
+Linux Security
+Linux Server
+Linux System Administration
+Linux device Driver
+Linux server administration
+Linux/Ubuntu System
+Liquibase
+Lisp
+Listen
+Listening
+Listening to customers
+Live Video Streaming
+LiveStyle
+Load Balancing
+Load Testing
+LoadRunner
+Location Based Services
+Lodash.js
+Log Analysis
+Log Shipping
+Log4Net
+Log4j
+Logging, Logback, Log4j
+Logic Design
+Logic Pro
+Logic Synthesis
+Logical Approach
+Logical Thinker
+Logical Thinking
+Logical thinking
+Logiciel
+Logistic Regression
+Logistics
+Logistics Management
+Logo Design
+Logstash
+Long Short-term Memory (LSTM)
+Long-term Prediction
+LoopBack.io
+Loopback
+Loopback Framework
+Loopback IBM Framework
+Loopback framework
+Lotus Notes
+Low Level Programming
+Low-code
+Loyalty Programs
+Lua
+Lucene
+Lucene,Solr
+Lumen
+Lumion
+M3UA
+MATLAB
+MCAL
+MCSA
+MCSA + Messaging
+MCSD
+MCSE 2003
+MCSE 70-465 sql server desgin
+MCU
+MCU Programming
+MERN Stack
+MES
+MFC
+MISA CRM
+MISRA
+MOSS 2007
+MPLS
+MPLS Networking
+MQTT
+MS Azure
+MS Project
+MS SQL
+MS SQL Server
+MS Sql
+MS VC++
+MSCA
+MSI Packaging
+MSMQ
+MSP430
+MSQL
+MSSQL
+MVC
+MVC Architecture
+MVC.NET
+MVP
+MVVM
+MXML
+MXNet
+MYSQL
+Mac
+Mac OS
+Mac os
+MacOS
+Machine Lea
+Machine Learning
+Machine Learning Algorithms
+Machine Vision
+Machiner Learning
+Macintosh Applications
+Magazine Layout Design
+Magento
+Magento 1
+Magento 2
+Magento Commerce
+Magento2
+Magnolia CMS
+Mahout
+Maintainance
+Makefile
+Malware Analysis
+Management
+Management Consulting
+Management Skills
+Management of multi-disciplinary teams
+Management services IT
+Management time
+Managerial Finance
+Managing Higher Management Education
+Managment Accounting
+Mangoose
+Mantis
+Manual Project Testing Skills
+Manual Testing
+Manufacture
+Manufacturing
+Many other skills
+MapReduce
+MapServer
+MariaDB
+Marionette.js
+Market Analysis
+Market Basket Analysis
+Market Development
+Market Research
+Marketing
+Marketing Automation
+Marketing BtoB
+Marketing Communications
+Marketing Management
+Marketing Strategy
+Marketing Support
+Marketing digital
+Marketing en ligne
+Marketing international
+Marketing mobile
+Marketo
+Martial Arts
+Material
+Material Design
+Material Requirements Planning (MRP)
+Material UI
+MaterialUI
+Materialize CSS
+Materials
+Materials Science
+MathType
+Mathematica
+Mathematical Logic
+Mathematical Modeling
+Mathematical Programming
+Mathematical Research
+Mathematics
+Matlab
+Matplotlib
+Maven
+Maximizer
+Maya
+Mean Stack
+Mechanical Engineering
+Media Gateways
+Media Planning
+MediatR
+Medical Assisting
+Medical Imaging
+Medical Research
+Medical Software
+Medical image processing
+Medicine
+Memcached
+Memory Management
+Memos
+Mentoring
+Merchandising
+Mercurial
+Mergers
+Mergers & Acquisitions
+Message Bird
+Message Broker
+Message Queue
+Messaging
+Meta Trader 4
+Meteor
+Meteor JS
+Meteor.js
+MeteorJS
+Meticulous
+Metro Ethernet
+Mi
+Micro Controller
+Microchip PIC
+Microcontrollers
+Microprocessors
+Microservice
+Microservice Architecture
+Microservices
+Microsoft Access
+Microsoft Azure
+Microsoft Biztalk
+Microsoft CRM
+Microsoft Dynamics
+Microsoft Dynamics AX
+Microsoft Dynamics CRM
+Microsoft Dynamics ERP
+Microsoft Dynamics NAV
+Microsoft Excel
+Microsoft Excel Add-ins Programming
+Microsoft Exchange
+Microsoft Exchange Server
+Microsoft Office
+Microsoft Office Add-ins
+Microsoft Office Sharepoint Server
+Microsoft Orleans
+Microsoft Outlook
+Microsoft Platform
+Microsoft Power Apps
+Microsoft Power BI
+Microsoft Power Query
+Microsoft PowerApps
+Microsoft PowerPoint
+Microsoft Powerpoint
+Microsoft Project
+Microsoft Reporting Service
+Microsoft SQL Server
+Microsoft Teams
+Microsoft Technologies
+Microsoft Visual Studio
+Microsoft Visual Studio C++
+Microsoft Visual Studio Code
+Microsoft Windows
+Microsoft Word
+Microsoft XNA
+Middleware
+MindSphere
+Minio
+Mirage SQL
+Mithril.js
+MobX
+Mobile
+Mobile Advertising
+Mobile Application
+Mobile Application Design
+Mobile Application Development
+Mobile Application Part (MAP)
+Mobile Application Reskinning
+Mobile Application Testing
+Mobile Applications
+Mobile Apps
+Mobile Banking
+Mobile Devices
+Mobile Game Development
+Mobile Games
+Mobile Networking
+Mobile Payments
+Mobile Phone Software
+Mobile Product Development
+Mobile Security
+Mobile Testing
+Mobile Web Design
+Mocha
+Mockito
+Mockups
+Modbus
+Model-View-Controller (MVC)
+Model-View-Presenter (MVP)
+Model-view-viewmodel (MVVM)
+Modeling
+Modellierung
+Modelsim
+Modem bringup
+Modern Web Apps
+Molecular Biology
+Mongo
+MongoDB
+MongoDb
+Mongodb
+Mongoose
+Monitoring Performance
+Monorepo
+Moodle
+Moq
+Motion Design
+Motion Graphic Design
+Motion Graphics
+Motion Tracking
+Motivational Interviewing
+Motivational Speaking
+Mqtt
+Muay Thai
+Mule ESB
+MuleSoft Anypoint Platform
+MuleSoft Products
+Multi Tasking
+Multi-disciplinary Teams
+Multi-screen design
+Multi-tenant
+MultiChain Platform
+Multiplayer
+Multitasking
+Multithreading
+Murex
+Music
+Music Videos
+MyBatis
+MyFaces
+MySQL
+MySQL Adminisrator
+MySQL, PostgreSQL, SQLServer
+MySQLi
+Mysql
+Méthodes agiles
+N-tier
+NDK
+NESTJS
+NET CORE
+NETCONF
+NFC
+NFV
+NGOs
+NHibernate
+NI LabVIEW
+NLP
+NLog
+NODEJS
+NPM (Node Package Manager)
+NPV/ROI/Payback Analysis
+NS2
+NServiceBus
+NUnit
+NXP
+Nagios
+Napas
+NativeScript
+NativeScript & Angular
+Natural Language Processing
+Natural Language Processing (NLP)
+Natural Language Understanding
+Needs Analysis
+Negotiation
+Neo4j
+Nessus
+NestJS
+Net core
+NetBeans
+NetSuite
+Netbeans Platform
+Netflix OSS
+Nettoyage de données
+Netty
+Network Administration
+Network Architecture
+Network Configuration
+Network Design
+Network Engineering
+Network Function Virtualization
+Network Load Balancing
+Network Programming
+Network Protocol Design
+Network Security
+Network Simulator
+Network Virtualization
+NetworkX
+Networking
+Networking Protocol
+Neural Networks
+Neuroscience
+New Business Development
+New Hire Orientations
+New Relic
+Newsgator
+Next.js
+NgRx
+Nginx
+Nimble
+Ninject
+Nintex
+NoSQL
+NoSQL databases
+Node
+Node Js
+Node-RED
+Node.js
+NodeJS
+NodeJs
+NodeJs Express
+Nodejs
+Nodejs Express framework
+Nodejs Express,SocketIO,Sails
+Nomad
+Non-functional Testing
+Non-profits
+Nonprofits
+NopCommerce
+Notary
+Notepad++
+Nservicebus
+Nuget
+NumPy
+Numerical Analysis
+Nursing
+Nuxt
+Nuxt.js
+NuxtJs
+Négociations
+OAuth
+OAuth 2
+OAuth2
+OBIEE
+OC4J
+OCA
+ODBC
+OData
+OLAP
+ONAP
+OOAD
+OOP
+OOP Design
+OOP concept
+OPEN GL ES 2.0
+ORM
+OS : LINUX, Windows.
+OS X
+OS X Development
+OS concepts
+OSGi
+OWASP
+Object C
+Object Detection
+Object Oriented Design
+Object Oriented Modeling
+Object Oriented Software
+Object Tracking
+Object-Oriented Programming
+Object-Oriented Programming (OOP)
+Object-Relational Mapping (ORM)
+Objective -C
+Objective C
+Objective-C
+Ocaml
+Octave
+Octl/tcl
+Octopus Products
+Odoo
+Odoo Developer
+Off-Page SEO
+Office 365
+Office Administration
+Office Equipment
+Office Management
+Offshore
+Offshore Outsourcing
+Offshore Software Development
+Offshoring
+Oil & Gas
+Oil & Gas Industry
+OllyDbg
+On-Page Optimization
+Onboarding
+Online Advertising
+Online Gaming
+Online Marketing
+Online Marketplace
+Online Research
+Online Retail
+Online Social Networking
+Online Video
+Ontology
+Open API
+Open Source
+Open Source Development
+Open Source Software
+Open cart
+OpenAPI
+OpenAPI Specification (OAS)
+OpenCL
+OpenCMS
+OpenCV
+OpenCV computer vision
+OpenERP
+OpenGL
+OpenGL ES
+OpenGL Shading Language (GLSL)
+OpenGL graphic model.
+OpenGLES
+OpenID Connect
+OpenLayers
+OpenMP
+OpenSIPS
+OpenSSL
+OpenSTA
+OpenStack
+OpenStack API
+OpenTok
+OpenVG
+OpenWRT
+Opencart
+Openresty
+Openshift
+Openskedge
+Openstack
+Operating Systems
+Operational Risk
+Operational Risk Management
+Operations
+Operations Management
+Operations Research
+Optaplanner
+Optical Character Recognition (OCR)
+Optical Network
+Optimization
+Optimize database
+Optimize server
+Optimizing Performance
+Optimiztion code
+OrCAD
+Oracle
+Oracle Application Development Framework (ADF)
+Oracle Application Server
+Oracle Applications
+Oracle BIEE
+Oracle Certified DBA
+Oracle DB
+Oracle Data Integrator (ODI)
+Oracle Database
+Oracle Database Administration
+Oracle E-Business Suite
+Oracle ERP
+Oracle Flexcube Universal Core Banking System
+Oracle Forms
+Oracle Forms and Reports
+Oracle OBIEE
+Oracle PL/SQL
+Oracle PL/SQL Development
+Oracle Reports
+Oracle SQL
+Oracle SQL Developer
+Oracle Siebel
+Oracle Streams
+Orcad
+Organic Search
+Organization Skills
+Organizational Behavior
+Organizational Culture
+Organizational Development
+Organizational Effectiveness
+Organizational Leadership
+Orientdb
+Original Research
+Outage Management
+Outlook
+Outlook Express
+Outsourced HR Services
+Outsourcing
+Outsystems
+Outsystems 11
+Overall IT Knowledge
+P&L Analysis
+P&L Management
+P&L responsibility
+P4
+PCB Design
+PCB design
+PDCA Cycle
+PHP
+PHP ( Laravel Framework 5x)
+PHP Applications
+PHP Framework
+PHP Frameworks
+PHP Laravel
+PHP Unit
+PHP and opensource/ frameworks
+PHP programming
+PHP wordpress
+PHP/Zend Framwork
+PHP4/5
+PHP: Symfony, Yii-framework, Wordpress
+PHPUnit
+PIC
+PJSIP
+PKCS#11
+PKI
+PL/SQL
+PLANNING & ORGANISING
+PLC
+PLC Programming
+PLI
+PLSQL
+PMF
+PMP
+PPC
+PS4
+PSD
+PSD to Wordpress
+PSM
+PSM 1 Certificate
+PWA
+Packaging
+Packer
+Page Layout
+Page Object Pattern
+Pandas
+Pandas (Software)
+Parallel Computing
+Parallel Programming
+Parallel data processing
+Parler en public
+Parse SDK
+Particles
+Pascal
+Passport
+Patient Care
+Patient Recruitment
+Pattern
+Pattern Recognition
+Pay Attention
+Payment Card Processing
+Payment Gateways
+Payment Services
+Payment Systems
+Payments
+Paypal Integration
+Payroll
+Payroll Administration
+Peer Tutoring
+Peer-to-peer
+Pega
+Penetration Testing
+Pentaho
+Pentaho DI
+Pentaho Reporting
+People Analytics
+People Development
+People Influence
+People Management
+People Motivation
+People Skills
+People management
+People-oriented
+People´s management
+Perforce
+Performance Analysis
+Performance Benchmarking
+Performance Dashboards
+Performance Engineering
+Performance Improvement
+Performance Management
+Performance Test Management
+Performance Testing
+Performance Tuning
+Performance-Analyse
+Perl
+Perl Automation
+Perl Script
+Persistence
+Personal Branding
+Personal Development
+Personal Responsibility
+Personal Training
+Personalführung
+Personnel Management
+Persuade
+Persuasion
+Persuasive Presentation Skills
+Petroleum
+Petroleum Engineering
+Petroleum Geology
+PgSQL
+Phalcon Framework
+Phaser
+Philanthropy
+Philosophy
+Phoenix
+Phone Etiquette
+PhoneGap
+Photo Editor
+Photography
+Photoscape
+Photoshop
+Php
+PhpMyAdmin
+PhpStorm
+Phusion Passenger
+Physics
+Pivotal Cloud Foundry (PCF)
+Pivotal OSS
+Pivotal Tracker
+Pixi.js
+Planification de projets
+Planification d’évènements
+Planning
+Planning Software
+Planning and Organizing
+Play Framework
+Plotly
+Plugins
+PocketFlow
+Policy
+Politics
+Polymer 1.0
+Polymers
+Portfolio Management
+Possible thinking
+Post Production
+PostCSS
+PostGIS
+Postgre
+PostgreSQL
+Postgres
+Postman
+Postman API
+Potal Liferay
+Power
+Power BI
+Power Electronics
+Power System Operations
+PowerMock
+PowerPC
+PowerPoint
+Powershell
+Pre-sales
+Predictive Modeling
+Predix Services
+Predix platform
+Presale
+Presentation
+Presentation Skills
+Presentation skill
+Presentations
+Presenter
+Press Releases
+Pressure Handling
+Prestashop
+PrestoDb
+PrimeFaces
+Primefaces
+Primetime
+Printed Circuit Board (PCB) Design
+Prioritize Workload
+Prismy
+Private Branch Exchange (PBX)
+Private Equity
+Pro*C
+ProShow Producer
+Proactive Mindset
+Probability
+Problem Solving
+Problem solving and analytical skills
+Problem-solving
+Process Automation
+Process Improvement
+Process Management
+Process Planning
+Processing
+Processors
+Procurement
+Product
+Product Analysis
+Product Delivery
+Product Design
+Product Development
+Product Innovation
+Product Launch
+Product Lifecycle Management
+Product Management
+Product Marketing
+Product Planning
+Product Requirements
+Product Strategy
+Product Vision
+Product management
+Production Deployment
+Production Management
+Production Planning
+Professional Audio
+Professional Communication
+Professional Responsibility
+Professional Services
+Professional coaching
+Proficient knowledge of Microsoft Word, Excel, Power Point; Arena and Matlab
+Profit & Loss Management
+Prognostics and Health Management (PHM)
+Program Development
+Program Management
+Programmable Logic Controller (PLC)
+Programmation orientée objet (OOP)
+Programmation web
+Programming
+Programming Languages
+Programming tool used in work: eclipse, visual studio, sql developer, sql server
+Progress 4GL
+Progressive Web App
+Progressive Web App (PWA)
+Progressive Web Applications (PWAs)
+Project Analysis
+Project Control
+Project Coordination
+Project Delivery
+Project Engineering
+Project Estimation
+Project Finance
+Project Implementation
+Project Leadership
+Project Lifecycle Management
+Project Management
+Project Management Body of Knowledge (PMBOK)
+Project Management Institute
+Project Management Office (PMO)
+Project Management Professional(PMP)
+Project Management Software
+Project Management Training
+Project Planning
+Project Scheduling, Costing & Budgeting
+Project management
+Project monitoring and control
+Project planning
+Prolog
+Prometheus
+Prometheus.io
+Proofreading
+Proposal Development
+Proposal Writing
+Proteus
+Protocol Buffers
+Protocol Design
+Protocol-Oriented Programming
+Prototype
+Prototype.js
+Protractor
+Proxmox
+Proxy
+Psychology
+PubSub
+Public Key Cryptography
+Public Realm
+Public Relations
+Public Speaking
+Pubnub
+PugJS
+Punctuation
+Puppet
+Puppeteering
+Purchase Management
+Purchasing
+Purchasing Negotiation
+Putty
+PyQt
+PySpark
+PyTorch
+Pycharm
+Pyramid
+Python
+Python (Programming Language)
+Python (numpy, pandas, matplotlib, sklearn, ...)
+Python (scikit-learn, NumPy, SciPy, pandas)
+Python 3
+Python Flask
+Python Programming
+Python Script
+Python, Matlab, R
+QA Automation
+QAQC
+QC
+QML
+QNX
+QT
+QTP
+QlikView Development
+QoS
+Qt
+Qt Creator
+Qt framework
+Qualification Testing
+Qualifying Candidates
+Qualitative Research
+Quality Assurance
+Quality Auditing
+Quality Center
+Quality Control
+Quality Management
+Quality System
+Quality management
+Quantitative Analytics
+Quantitative Research
+Quartz
+Quartz.Net
+Quasar Framework
+Query Optimization
+Quick Study
+Quick-learner, self-confident and active
+QuickBooks
+Quotas
+R
+R programming
+R&D
+RCP Testing Tool
+RDBMS
+REST
+REST & SOAP API
+REST API
+REST APIs
+REST,SOAP
+RESTful
+RESTful API
+RESTful APIs
+RESTful WebServices
+RESTful architecture
+RESTfull API
+RFC2544
+RFID Applications
+RIBs
+RPA Solution
+RPC
+RSpec
+RTL
+RTL Coding
+RTL Design
+RTL design
+RTOS
+RTP
+RUP Methodologies
+Rabbit
+Rabbit Message Queue System
+RabbitMQ
+RabbitMq
+Racket
+Rails
+Ram/Room analysis
+Rancher
+Rapid Application Development (RAD)
+Rasa Stack
+Raspberry Pi
+Ratio Analysis
+Rational DOORS
+Rational Performance Tester
+Rational Robot
+Rational Rose Enterprise Edition
+Ravendb
+ReSharper
+React
+React Apollo Client + GraphQl
+React Hooks
+React JS
+React Native
+React Redux
+React hooks
+React js
+React native
+React-Native
+React-native
+React.js
+ReactJS
+ReactJS/React-Native
+ReactJs
+ReactJs-Redux
+Reactive Programming
+Reactjs
+Reactjs web development
+Reactredux
+Readability
+Readbean
+Reading Books
+Reading English Document
+Real Estate
+Real Time
+Real Time System Design
+Real-Time Operating Systems (RTOS)
+Real-Time Transport Protocol (RTP)
+Real-time Data Acquisition
+Real-time Graphics
+Real-time OS
+Realm
+Realm Database
+Realtime Programming
+Reasoning Skills
+Receptionist Duties
+Recherche
+Recommender Systems
+Record Management System (RMS)
+Recruiting
+Recruitment
+Recruitment Advertising
+Recruitment and selection
+Recruitments
+Recrutement
+Recrutement sur Internet
+Recurrent Neural Networks (RNN)
+Red Hat Linux
+Redgate SQL
+Redhat Decision Manager
+Redis
+Redistricting
+Redmine
+Redux
+Redux Saga
+Redux Thunk
+Redux.js
+Reflection
+Regression Analysis
+Regression Testing
+Regular Expressions
+Reinforcement Learning
+Relational Databases
+Relational database technologies: MySQL, SQL Server
+Relations avec les employés
+Relationship Building
+Relationship Management
+Reliability
+Remote User Support
+Rendering
+Report
+Report Writing
+Reporting
+Reporting & Analysis
+Repository
+Representational State Transfer (REST)
+Repro
+RequireJS
+RequireJs
+Requirement Specifications
+Requirements Analysis
+Requirements Definition & Analysis
+Requirements Gathering
+Requirements Traceability
+Research
+Research Design
+Research and Development (R&D)
+Researching
+Researching New Technologies
+Researching New Technologies quickly
+Residential Design
+Resource Allocation
+Resource Management
+Resource Planning
+Resource assurance
+Respect for customers, trust and culture
+Responsive
+Responsive Design
+Responsive Web Design
+Ressources humaines
+Rest Assured
+RestFul WebServices
+Restful Web Services
+Restful WebServices - Jersey
+Restructuring
+Resume Writing
+Retail
+Retail Design
+Retail Operations
+Retail Sales
+RethinkDB
+Retrofit
+Reverse Engineering
+Reverse Transcription Polymerase Chain Reaction (RT-PCR)
+Review SRS and testing document.
+Reviews
+Revit
+Rhetos
+Ribbon
+RichFaces
+Ridis
+Risk Management
+Risk management
+RoR
+Robot Framework
+Robot Operating System (ROS)
+Robotic Process Automation (RPA)
+Robotics
+Robotium
+Rocket.Chat
+Root Cause Analysis
+Rootkits
+Routing Protocols
+Ruby
+Ruby On Rails
+Ruby on Rails
+RubyMine
+Rust (Programming Language)
+RxAndroid
+RxBlocking
+RxJS
+RxJava
+RxKotlin
+RxSwift
+RxTest
+Rxswift
+S.O.L.I.D
+SAML 2.0
+SAP
+SAP ABAP
+SAP ABAP for HANA
+SAP Basis
+SAP Business One
+SAP C4C
+SAP CRM
+SAP Cloud Platform
+SAP Consulting
+SAP Development
+SAP ERP
+SAP FI
+SAP HANA
+SAP HR
+SAP Hybris
+SAP Implementation
+SAP Integration
+SAP Interface
+SAP MII
+SAP Materials Management (SAP MM)
+SAP Netweaver
+SAP Netweaver Operation
+SAP PI
+SAP Products
+SAP Query
+SAP R/3
+SAP Sales & Distribution
+SAP Successfactors
+SAP Workflow
+SAPScripts
+SAPUI5
+SASS
+SASS/LESS
+SCSS
+SCTP
+SDC (constraints) making
+SDK
+SDK Development
+SDLC
+SDN
+SDN/NFV
+SEM
+SEO
+SEO Analysis
+SEO Copywriting
+SEO Training
+SFTP
+SIP
+SIP Trunking
+SML
+SMPP
+SNMP
+SOA
+SOAP
+SOAP Web Service
+SOAP; SOAPUI
+SOLID
+SOLID Design Principles
+SOLID Principles
+SOLR
+SPI
+SPSS
+SQL
+SQL Applications
+SQL Azure
+SQL DB2
+SQL Injection
+SQL Master Data Service
+SQL PL
+SQL Server
+SQL Server 2000-2008
+SQL Server 2008/2012
+SQL Server Analysis Services (SSAS)
+SQL Server Integration Services (SSIS)
+SQL Server Management Studio
+SQL Server Reporting Services (SSRS)
+SQL database
+SQL server
+SQL/ MySQL/ PostgreSQL/ MongoDB
+SQLAlchemy
+SQLCE
+SQLLite
+SQLite
+SRE
+SS7
+SSAS
+SSH
+SSI
+SSIS
+SSL
+SSL Certificates
+SSL/TLS
+SSRS
+SStable
+STA
+STL
+SVG
+SVN
+SVN & GitHub
+SWT/JFaces
+SWTBot
+SaaS
+SableCC
+Saga
+Sails
+Sails JS
+Sails.js
+Sakai
+Salary
+Salary Negotiations
+Sale Analysis
+Sales
+Sales & Marketing
+Sales Consulting
+Sales Engineering
+Sales Leads
+Sales Management
+Sales Operations
+Sales Presentation Skills
+Sales Presentations
+Sales Process
+Sales Recruitment
+Sales Strategy
+Salesforce
+Salesforce.com
+Salesforce.com Development
+SaltStack
+Samba
+Sanity Testing
+Sap Fiori
+Sass
+Sass Html
+Sauce Labs
+Sawzall
+Sbt
+Scala
+Scalability
+Scalable Architecture
+Scalable Vector Graphics (SVG)
+Scalable Web Applications
+Scaled Agile Framework
+Scaling & Root Planing
+Schedule/Plan development
+Scheduling
+Schema registry
+Schematic Capture
+Scheme
+Science
+Scientific Management Approaches and Techniques
+Scientific Programming
+Scikit-Learn
+Scope Management
+Scope Planning
+Scope management
+Scrapy
+Scrapy Framework
+Scratch
+Screening
+Screening Resumes
+ScribeLog
+Scripting
+Scrum
+Scrum Master
+Scss
+Sdet
+Seaborn
+Search
+Search Analysis
+Search Engine Marketing (SEM)
+Search Engine Optimization (SEO)
+Search Engine Positioning
+Search Engine Technology
+Search Engines
+Search engine (Sorl)
+Seasar
+Secure Coding
+Secure Shell (SSH)
+Securities
+Security
+Security Awareness
+Security Management
+Security Protocols
+Security Research
+Security Testing
+Sed
+Selection screen
+Selenium
+Selenium Testing
+Selenium WebDriver
+Self - motivated, enthusiastic and creative.
+Self Learning
+Self-Assurance
+Self-confidence
+Self-management
+Self-movivation
+Self-research
+Semantic UI
+Semantics
+SemaphoreCI
+Semiconductors
+Sencha
+Sencha Touch
+Sencha library
+SendGrid
+Senior Helpdesk
+Sensors
+Sentry
+Sequel
+Sequelize.js
+Serena
+Serilog
+Server
+Server Administration
+Server Architecture
+Server Configuration
+Server Management
+Server Side
+Server Side Programming
+Serverless
+Serverless Computing
+Servers
+Service Delivery
+Service Now
+Service Orientation
+Service Provider Interface (SPI)
+Service client
+Service fabric
+Service-Oriented Architecture (SOA)
+Service-now.com
+ServiceNow
+Services Web RESTful
+Services web RESTful
+Servlet
+Servlets
+Session Border Controller
+Session Initiation Protocol (SIP)
+Set Top Box
+Shaders
+SharePoint
+SharePoint Administration
+SharePoint Designer
+SharePoint Server
+Shared Hosting
+Sharepoint Framework (SPFx)
+Shares
+Shell Scripting
+Shell script
+Shopify
+Shopping Cart
+Short Message Service Center (SMSC)
+Sidekiq
+Sierra Wireless (Open-AT operation)
+SignalR
+Signaling System 7 (SS7)
+Sikuli
+Silverlight
+Simulation
+Simulations
+Simulink
+Sing
+Single Board Computers
+Single Page Applications
+Single Sign-On (SSO)
+Sitecore
+Sitecore 8.1
+Sitefinity
+Sitemesh
+Skateboarding
+Sketch
+Sketch 3
+Sketch App
+Sketching
+Skilled Multi-tasker
+Skype
+Skype for Business
+Skywise
+Slack
+Slim
+Slim Framework
+Slim framework
+Slush
+Small Group
+Smart Cards
+Smart Contract
+Smart Contracts
+Smart Worker
+Smart contract programming with Solidity
+SmartBear
+Smartforms
+Smartfox
+Smartfroms
+Smarty
+Smoke Testing
+Snap SVG
+Snaplogic
+SoC
+SoapUI
+Soapui
+Soccer
+Sociable
+Social Analytics
+Social Engine
+Social Entrepreneurship
+Social Games
+Social Listening
+Social Marketing
+Social Media
+Social Media Blogging
+Social Media Coach
+Social Media Evangelist
+Social Media Marketing
+Social Media Mining
+Social Media Strategist
+Social Networking
+Social Work
+Social activities
+Social network
+Socket Programming
+Socket.io
+Soft Skills
+Softswitch
+Software
+Software Analysis and Design, Backend develop, Mobile develop, Algorithm
+Software Architectural Design
+Software Architecture
+Software Architecture and Design
+Software Coding
+Software Consulting
+Software Defined Networking
+Software Deployment
+Software Design
+Software Design Patterns
+Software Developer
+Software Development
+Software Development Life Cycle
+Software Development Life Cycle (SDLC)
+Software Development Methodologies
+Software Development Process
+Software Documentation
+Software Engineer
+Software Engineer Practices - CMMI
+Software Engineering
+Software Engineering Practices
+Software Implementation Management
+Software Industry
+Software Installation
+Software Packaging
+Software Process Management
+Software Product Management
+Software Project Management
+Software Prototyping
+Software Quality
+Software Quality Assurance
+Software Quality Management
+Software Quality and Testing
+Software Requirements
+Software Sales
+Software Solution Architecture
+Software Solutions
+Software Testing
+Software Testing Skills
+Software Validation
+Software architecture
+Software as a Service (SaaS)
+Software design
+Software development lifecycle
+Software requirements analysis
+Solaris
+Solid
+SolidWorks
+Solidity
+Solodity programing
+Solr
+Solution Architecture
+Solution Development
+Solution Implementation
+Solution Selling
+Solution architecture
+Solving problem
+Sonar, Jenkin
+Sonarqube
+Sony Vegas
+Source Control
+Source Tree
+Sourcetree
+Sourcing
+Space Planning
+Space planning
+Spark
+Spark Streaming
+Sparx Enterprise Architect
+Specflow
+Specifications
+Speech Processing
+Speech Synthesis System
+Spinnaker
+SpiraTest
+Splunk
+Sponsorship
+Spring
+Spring Batch
+Spring Boot
+Spring Cloud
+Spring DI
+Spring Data
+Spring Framework
+Spring Framework (Core, MVC, Security, Data JPA)
+Spring Framwork
+Spring Integration
+Spring MVC
+Spring Quartz
+Spring Security
+Spring Session
+Spring Tool Suite, Eclipse, JDeveloper, and Toad for Oracle
+Spring Webflow
+Spring Webflux
+Spring, Hibernate, JSF Primeface
+SpringBoot
+Sprint Planning
+Sprints
+Sql
+Sqlcipher
+Sqlite
+Stack
+Staff Development
+Staff Training
+Stakeholder Engagement
+Stakeholder Management
+Standard Template Library (STL)
+Start-up
+Start-up Environment
+Start-up Ventures
+Start-ups
+Start-ups Management
+Stata
+State Management
+Static Analysis
+Static Timing Analysis
+Statistical Data Analysis
+Statistical Inference
+Statistics
+Steam
+Storage
+Stored Procedures
+Story Writing
+Storyboarding
+Storytelling
+Strategic Consulting
+Strategic Financial Planning
+Strategic Human Resource Planning
+Strategic IT Management
+Strategic Influence
+Strategic Leadership
+Strategic Partnerships
+Strategic Planning
+Strategic Sales
+Strategic Technology Planning
+Strategic Thinking
+Strategic Visionary
+Strategische Planung
+Strategy
+Strategy Building
+Stratégie marketing
+Streaming Media
+Stress Management
+Stress Testing
+Stripe
+Stripe Connect
+Strong technical background
+StropheJS
+Structs
+Structured Finance
+Strust
+Struts
+Struts 2
+Struts Framework
+Struts1
+Struts2
+Student-Centered Learning
+Study Skills
+Style transfer
+Styled Components
+Stylus
+Sublime Text
+Submittals
+Substation
+Subversion
+Subversion Control
+Succession Planning
+Suggestions
+Sun Certified Java Programmer
+Supervised Learning
+Supplier Sourcing
+Supply Chain Management
+Supply Chain Operations
+Supply Management
+Supply chain management
+Survey Design
+Survey Research
+Sustainability
+Sustainable Design
+Svn
+Swagger
+Swagger API
+Swift
+Swift (Programming Language)
+Swift Programming Language
+Swing
+Swing ( Java )
+Switching
+Switf
+Sybase
+Symfony
+Symfony Framework
+Symfony2
+Synology
+Syslog
+System Administration
+System Architecture
+System Builder
+System Configuration
+System Deployment
+System Design
+System Integration Testing
+System Monitoring
+System Performance
+System Testing
+System Verification
+System on a Chip (SoC)
+SystemC
+Systems Analysis
+Systems Design
+Systems Engineering
+T-SQL
+T-SQL Stored Procedures
+TCL
+TCP
+TCP/IP
+TCP/UDP/WebSocket
+TDD
+TFS
+TIME MANAGEMENT
+TOEIC
+TOEIC 810
+TOEIC 850
+TTCN-3
+Table Tennis
+Table control
+Tableau
+Taekwondo
+TailwindCSS
+Talend Open Studio
+Talent Acquisition
+Talent Developer
+Talent Framework
+Talent Management
+Task Management
+Tcl-Tk
+Teacher Training
+Teaching
+Teaching English as a Second Language
+Team Building
+Team Building & Mentoring
+Team Communication
+Team Foundation Server (TFS)
+Team Leader
+Team Leadership
+Team Management
+Team Mentoring
+Team Motivation
+Team Organisation
+Team Restructuring
+Team Spirit
+Team Work
+Team Working
+Team work
+TeamCity
+Teamlab
+Teamwork
+Tech-savvy
+Technical Analysis
+Technical Architecture
+Technical Communication
+Technical Consultation
+Technical Design
+Technical Direction
+Technical Documentation
+Technical English
+Technical Leadership
+Technical Product Management
+Technical Project Leadership
+Technical Recruiting
+Technical Sales Presentations
+Technical Specs
+Technical Support
+Technical Training
+Technical Writing
+Technology Consulting
+Technology Development
+Technology Management
+Technology Platforms
+Technology Recruitment
+Technology Software
+Technology Solutions
+Technology Strategy
+Telecommunications
+Telecommunications Engineering
+Telematics
+Telerik
+Telerik Controls
+Telerik Test Studio
+Telerik Web Controls
+Television
+Temporary Placement
+TensorFlow
+Tensorflow
+Terminal
+Terraform
+Tesseract
+Tessy
+Test Analysis
+Test Automation
+Test Automation Framework
+Test Automation Tools
+Test Cases
+Test Design
+Test Driven Development
+Test Engineering
+Test Execution
+Test Management
+Test Planning
+Test Procedures
+Test Scenarios
+Test Strategy
+Test Validation
+Test framework: JUNIT, Mockito.
+Test-Driven Development
+TestArchitect
+TestComplete
+TestLink
+TestNG
+Testers
+Testing
+Testing Tools
+Testrail
+Text Classification
+Text Mining
+Tfs
+The ability to acquire quickly and skillfully use office informatics skills
+Theme Development
+Theory
+Thesis Customization
+Thinking Differently
+Third-Party Logistics (3PL)
+Thought Leadership
+Three.js
+Thymeleaf
+Time Management
+Time Series Forecasting
+Time management
+TimeXtender
+Tin
+Titanium Mobile
+Tizen
+Tomcat
+Tomcat 8
+Tooling Design
+Toolkit
+Tornado
+Tortoise
+Tortoise Git
+Tortoise SVN
+Trac
+Trading
+Traffic Simulation
+Training
+Training & Development
+Training Delivery
+Transact-SQL (T-SQL)
+Translation
+Transport request
+Transportation
+Transportation Management System
+Travail d'équipe
+Travel & Tourism
+Travel Arrangements
+Travel Systems
+Travis
+Trello
+Troubleshooting
+Truffles
+Trunk based development
+Trust Building
+Trusted Computing
+Tulsi
+Turbo Pascal
+Turn Around Management
+Tutoring
+Tweeter API
+Twig
+Twilio
+Twisted
+Twitter API
+Twitter Bootstrap
+Two-factor Authentication
+TypeOrm
+TypeScript
+TypeScript (ES5 - ES6)
+Typescript
+Typing
+Typography
+UART
+UCMA
+UDP
+UI
+UI Design
+UI Test
+UI Testing
+UI UX
+UI/UX
+UI/UX & Database Design (RDBMS)
+UI/UX Design
+UIKit
+UIX
+ULM
+UML
+UML Tools
+UMTS
+UPnP
+URL Rewriting
+USB
+UX
+UX Design
+Ubiquiti Networks
+Ubuntu
+UiPath
+Umbraco
+Uml, svn, git, jira, redmine
+Underscore.js
+Understanding of OPP, MVC, design patterns
+Unified Modeling Language (UML)
+Unit Testing
+UnitTest
+Unity
+Unity 3D
+Unity3D
+Universal Asynchronous Receiver/Transmitter (UART)
+Universal Mobile Telecommunications System (UMTS)
+Universal Verification Methodology (UVM)
+Universal Windows Platform
+University Teaching
+Unix
+Unix Shell Scripting
+Unstructured Supplementary Service Data (USSD)
+Unsupervised Learning
+Usability
+Usability Testing
+Use Case
+Use database: oracle , my sql
+User Acceptance Testing
+User Exits
+User Experience
+User Experience (UX)
+User Experience Design
+User Experience Design (UED)
+User Interface
+User Interface Design
+User Interface Programming
+User Interface Prototyping
+User Interviews
+User Research
+User Stories
+User-exits
+V-Model
+V1
+VB
+VB 6.0
+VB.NET
+VB.NET ANGULAR ORACLE PHP MYSQL
+VB6
+VBA
+VBScript
+VC#
+VFX
+VHDL
+VIM
+VLAN
+VLSI
+VMWare ESXi
+VMware
+VMware Certified Professional
+VMware vSphere
+VSCode
+VSS
+VSTS
+VTK
+Vaadin
+Vagrant
+Vagrant (Software)
+ValentinaDB
+Valgrind
+Validation
+Valuation
+Value Stream Mapping
+Vapor
+Vapor framework
+Varnish
+Vehicle Tracking
+Vendor Contracts
+Vendor Management
+Vendors
+Vente
+Venture Capital
+Venture Philanthropy
+Verification
+Verification and Validation (V&V)
+Verilog
+Verilog HDL
+Version Control
+Version Control Tools
+Version Management
+Version One
+Vert.x
+VertX
+Very-Large-Scale Integration (VLSI)
+Vi
+Video
+Video Codec
+Video Compression
+Video Conferencing
+Video Editing
+Video Encoding/Streaming
+Video Games
+Video Post-Production
+Video Production
+Vietnamese
+Vim
+Viral Marketing
+Virtual Environment
+Virtual Private Network (VPN)
+Virtual Reality
+VirtualBox
+Virtualization
+Visio
+Vision Development
+Vision par ordinateur
+Visual Analytics
+Visual Basic
+Visual Basic .NET (VB.NET)
+Visual Basic for Applications (VBA)
+Visual C#
+Visual C++
+Visual Communication
+Visual Effects
+Visual Identity
+Visual SVN
+Visual SourceSafe (VSS)
+Visual Studio
+Visual Studio Code
+Visual Studio Team System
+VisualVM
+Visualization
+VoIP
+VoIP protocols SIP
+Voice Mail
+Voice over IP (VoIP)
+Volleyball
+Volunteer Management
+Volunteering
+Vue
+Vue JS
+Vue Native
+Vue js
+Vue.js
+VueJS
+VueJs
+Vuejs
+Vuejs, Vuex, Nuxtjs
+Vuetify
+Vuex
+Vulnerability Assessment
+W3Js
+WAMP
+WCF
+WCF Services
+WEB
+WF
+WHMCS
+WISE
+WIX
+WPF
+WPF Development
+WSO2
+WSO2 ESB
+Warehouse Management System
+Warehouse Operations
+Waterfall
+Waterfall Project Management
+Watermarking
+Way4
+Wayfinding
+Wearable Computing
+Wearables
+Web
+Web 2.0
+Web API
+Web Accessibility
+Web Analytics
+Web Analytics Implementation
+Web Api
+Web Application Design
+Web Application Development
+Web Application Security
+Web Applications
+Web Architecture
+Web Backend
+Web Caching
+Web Content
+Web Content Creation
+Web Content Management
+Web Content Writing
+Web Crawling
+Web Design
+Web Designing
+Web Developers
+Web Development
+Web Framework
+Web Graphics
+Web Hosting
+Web Jobs
+Web Maintenance
+Web Marketing
+Web Parts
+Web Performance
+Web Project Management
+Web Scraping
+Web Servers
+Web Servers : Wamp, Xampp, Tomcat.
+Web Service
+Web Services
+Web Services API
+Web Standards
+Web Strategy
+Web Technologies
+Web Technologies : PHP scripts, JSP, HTML, CSS.
+Web Testing
+Web Video
+Web service/SOAP/WSDL/CXF
+WebDriver
+WebGL
+WebLogic
+WebP
+WebPerformer
+WebRTC
+WebSocket
+WebSockets
+WebSphere Application Server
+WebSphere Portal
+Webflow
+Webform
+Weblogic
+Webpack
+Webpack 4
+Webrtc
+Website Development
+Websites
+Websocket
+Webstorm
+Webview
+Wicket
+Wifi Mesh
+WildFly Swarm
+Wildfly
+Win32
+Win32 API
+WinAMS
+WinDbg
+WinForms
+WinSCP
+Window
+Window Phone
+Window RT
+Window Server
+Window phone
+Windows
+Windows 10 IoT Core
+Windows 7
+Windows 8 Apps
+Windows 8.1
+Windows Administration
+Windows Azure
+Windows Communication Foundation (WCF)
+Windows Forms
+Windows Phone
+Windows Presentation Foundation (WPF)
+Windows Programming
+Windows Security
+Windows Server
+Windows Services
+Windows Store Apps
+Windows System Administration
+Windows Workflow Foundation (WF)
+Windows software development
+WindowsPhone Development
+Winforms
+Wireframes
+Wireframing
+Wireless
+Wireless Communications Systems
+Wireless Networking
+Wireless Technologies
+Wireshark
+Wise Packaging Studio
+WooCommerce
+Word
+WordNet
+WordPress
+WordPress Design
+Wordpress
+Work Pressure
+Workday
+Workflow
+Workflow Applications
+Workforce Planning
+Working Database (SQL, Cypher, Neo4j, Oracle)
+Working pressure
+Working with CMS
+Working with Investors
+Works well in a team
+Wowza
+Write required documents, analyze functions, user guide
+Writing
+Written Communication
+Wso2
+X++
+XAML
+XAMPP
+XHTML
+XML
+XML Schema Definition (XSD)
+XMPP
+XNA
+XP
+XPath
+XQuery
+XSLT
+XSS
+XStream
+XUnit
+Xamarin
+Xamarin Forms
+Xamarin Native
+Xamarin Products
+Xcode
+YII 2
+YUI
+Yang
+Yarn
+Yeoman
+Yii
+Yii Framework
+Yii framework
+Yii2
+Yocto Project
+Yoga Instruction
+YouTube API
+Youth Development
+Youth Entrepreneurship
+Youth Mentoring
+ZK
+ZSH
+Zabbix
+Zend
+Zend Framework
+Zend Framework 2
+Zend Studio
+Zendesk
+ZigBee
+Zuul API Gateway
+ai
+akaBot
+akaBot Platform
+android
+android and java developing
+android app
+angular
+angular 2
+angular 4
+angular 5
+angular5
+angular6
+angular8
+angularjs
+application performace improvement
+asp.net
+aspice
+automotive
+autosar
+back-end devloper
+backend
+bash
+bourbon
+business application
+c
+c#
+c#/.Net
+c++
+c/c++
+cPanel
+cake php
+ccna
+cent os
+chief technology officer
+chinese
+clickhouse
+cocos2d-x
+cocos2djs
+cocos2dx
+code tool multimedia
+composer
+container
+coroutine
+creativity
+css
+css3
+data biding
+data mining
+devops
+django
+docker
+docker swam
+dotnet core
+draw.io
+ePub
+eZ Publish
+ejbca
+elasticsearch
+ember
+es6
+evaluation
+expererience with zigbee/zwave
+fault tolerant design
+ffmpeg
+flask
+flask pyhton
+flyway database
+frontend developer
+gRPC
+game
+gcloud
+git
+git hub
+gitlab ci
+global HCM
+glup
+go
+golang
+good communication
+google services
+gradle
+hapi.js
+hbase
+headhunt
+heroku
+hibernate
+html
+html + css
+html5
+iBatis
+iOS
+iOS Design
+iOS Develope
+iOS Development
+iOS Programming
+iOS Structural Design
+iOS development
+iOS-Entwicklung
+iOs
+iPad
+iPad Development
+iPhone
+iPhone Application Development
+iPhone development
+iReport
+iTKO LISA
+info
+ingteration testing
+iot
+j2ee
+jCardSim
+jQTouch
+jQuery
+jQuery Mobile
+jQuery UI
+jUnit
+java
+javascript
+jdbc
+jenkin
+jinja2
+jmete
+jpa
+jquery
+jquey
+js
+jsp, servlet, jdbc, jstl
+kotlin
+laravel
+leJoS
+linux
+load balacing, scraping, redirect linux/windows system solutions
+matlab
+mfc
+microservice
+microservices
+mobile application
+mobile application testing
+mobile automation testing
+mongo
+mongodb
+mqtt
+ms outlook
+mysql
+navigation component
+nego
+netcore
+nextjs
+nginx
+nltk
+nodejs
+npm
+oauth2
+odoo
+office
+openMP
+openMPI
+openerp
+osCommerce
+outsource
+outsystems
+p5.js
+pgAdmin
+photoshop
+php
+phpBB
+phpFox
+phpMyAdmin
+phpfox
+phân tích
+phỏng vấn
+poky recipes
+portal liferay
+power shell
+prometheus
+pug
+pusher
+python
+python, go lang scraper/ai solutions
+python-flask
+rails
+ram optimization
+rancher
+reactjs
+recrui
+redis
+redis / memcache
+redux
+responsive web design
+saga
+sale
+sass
+scamper
+scrum
+scss
+semantic
+social media strategy
+software architecture
+spi
+spring
+springboot2
+sql
+squid
+structs2
+struts
+struts2
+styled-components
+svn
+swift
+system verilog
+team working
+team-work
+telecom
+tensorflow
+tiếng Việt
+tomcat
+traefik
+troubleshoot
+tuyển dụng
+twitter bootstrap
+ubuntu / linux
+verilog
+volunteering
+vps
+vue
+vuejs
+vuex
+wamp
+webpack
+website design
+website operations
+weex
+winui
+x86 Assembly
+xUnit
+xamarin form
+xhtml
+yocto
+zend
+zeplin

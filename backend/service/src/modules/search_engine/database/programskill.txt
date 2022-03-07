@@ -1,0 +1,678 @@
+1C Enterprise
+4D
+ABAP
+ABAP CDS
+ABNF
+AGS Script
+AIDL
+AL
+AMPL
+ANTLR
+API Blueprint
+APL
+ASL
+ASN.1
+ASP.NET
+ATS
+ActionScript
+Ada
+Adobe Font Metrics
+Agda
+Alloy
+Alpine Abuild
+Altium Designer
+AngelScript
+Ant Build System
+ApacheConf
+Apex
+Apollo Guidance Computer
+AppleScript
+Arc
+AsciiDoc
+AspectJ
+Assembly
+Astro
+Asymptote
+Augeas
+AutoHotkey
+AutoIt
+Avro IDL
+Awk
+BASIC
+Ballerina
+Batchfile
+Beef
+Befunge
+BibTeX
+Bicep
+Bison
+BitBake
+Blade
+BlitzBasic
+BlitzMax
+Bluespec
+Boo
+Boogie
+Brainfuck
+Brightscript
+Browserslist
+C
+C#
+C++
+C-ObjDump
+C2hs Haskell
+CIL
+CLIPS
+CMake
+COBOL
+CODEOWNERS
+COLLADA
+CSON
+CSS
+CSV
+CUE
+CWeb
+Cabal Config
+Cap'n Proto
+CartoCSS
+Ceylon
+Chapel
+Charity
+ChucK
+Cirru
+Clarion
+Classic ASP
+Clean
+Click
+Clojure
+Closure Templates
+Cloud Firestore Security Rules
+CoNLL-U
+CodeQL
+CoffeeScript
+ColdFusion
+ColdFusion CFC
+Common Lisp
+Common Workflow Language
+Component Pascal
+Cool
+Coq
+Cpp-ObjDump
+Creole
+Crystal
+Csound
+Csound Document
+Csound Score
+Cuda
+Cue Sheet
+Cycript
+Cython
+D
+D-ObjDump
+DIGITAL Command Language
+DM
+DNS Zone
+DTrace
+Dafny
+Darcs Patch
+Dart
+DataWeave
+Dhall
+Diff
+DirectX 3D File
+Dogescript
+Dylan
+E
+E-mail
+EBNF
+ECL
+ECLiPSe
+EJS
+EQ
+Eagle
+Earthly
+Easybuild
+Ecere Projects
+EditorConfig
+Edje Data Collection
+Eiffel
+Elixir
+Elm
+Emacs Lisp
+EmberScript
+Erlang
+F#
+F*
+FIGlet Font
+FLUX
+Factor
+Fancy
+Fantom
+Faust
+Fennel
+Filebench WML
+Filterscript
+Fluent
+Formatted
+Forth
+Fortran
+Fortran Free Form
+FreeBasic
+FreeMarker
+Frege
+Futhark
+G CODE
+GAML
+GAMS
+GAP
+GCC Machine Description
+GDB
+GDScript
+GEDCOM
+GLSL
+GN
+Game Maker Language
+Gemfile.lock
+Genie
+Genshi
+Gentoo Ebuild
+Gentoo Eclass
+Gerber Image
+Gettext Catalog
+Gherkin
+Git
+Glyph
+Glyph Bitmap Distribution Format
+Gnuplot
+Go
+Golo
+Gosu
+Grace
+Gradle
+Grammatical Framework
+Graph Modeling Language
+GraphQL
+Graphviz (DOT)
+Groovy
+Groovy Server Pages
+HAProxy
+HCL
+HLSL
+HTML
+HTML5
+HTTP
+HXML
+Hack
+Haml
+Handlebars
+Harbour
+Haskell
+Haxe
+HiveQL
+HolyC
+Hy
+HyPhy
+IDL
+IGOR Pro
+INI
+IRC log
+Idris
+Ignore List
+ImageJ Macro
+Inform 7
+Inno Setup
+Io
+Ioke
+Isabelle
+J
+JAR Manifest
+JFlex
+JSON
+JSON5
+JSON-LD
+JSONiq
+Jasmin
+Java
+JavaScript
+Jest Snapshot
+Jinja
+Jison
+Jison Lex
+Jolie
+Jsonnet
+Julia
+Jupyter Notebook
+KRL
+Kaitai Struct
+KakouneScript
+KiCad Layout
+KiCad Legacy Layout
+KiCad Schematic
+Kit
+Kotlin
+Kusto
+LFE
+LLVM
+LOLCODE
+LSL
+LTspice Symbol
+LabVIEW
+Lark
+Lasso
+Latte
+Lean
+Less
+Lex
+LilyPond
+Limbo
+Linker Script
+Linux Kernel Module
+Liquid
+LiveScript
+Logos
+Logtalk
+LookML
+LoomScript
+Lua
+M
+M4
+M4Sugar
+MATLAB
+MAXScript
+MLIR
+MQL4
+MQL5
+MTML
+MUF
+Macaulay2
+Makefile
+Mako
+Markdown
+Marko
+Mask
+Mathematica
+Maven POM
+Max
+Mercury
+Meson
+Metal
+MiniD
+Mirah
+Modelica
+Modula-2
+Modula-3
+Module Management System
+Monkey
+Moocode
+MoonScript
+Motoko
+Motorola 68K Assembly
+Muse
+Mustache
+Myghty
+NASL
+NCL
+NEON
+NL
+NPM Config
+NSIS
+NWScript
+Nearley
+Nemerle
+NetLinx
+NetLinx+ERB
+NetLogo
+NewLisp
+Nextflow
+Nginx
+Nim
+Ninja
+Nit
+Nix
+Nu
+NumPy
+Nunjucks
+OCaml
+ObjDump
+Object Data Instance Notation
+ObjectScript
+Objective-C
+Objective-C++
+Objective-J
+Odin
+Omgrofl
+Opa
+Opal
+Open Policy Agent
+OpenCL
+OpenEdge ABL
+OpenQASM
+OpenRC runscript
+OpenSCAD
+OpenStep Property List
+OpenType Feature File
+Org
+Ox
+Oxygene
+Oz
+P4
+PEG.js
+PHP
+PLSQL
+PLpgSQL
+POV-Ray SDL
+Pan
+Papyrus
+Parrot
+Pascal
+Pawn
+Pep8
+Perl
+Pic
+Pickle
+PicoLisp
+PigLatin
+Pike
+PlantUML
+Pod
+Pod 6
+PogoScript
+Pony
+PostCSS
+PostScript
+PowerBuilder
+PowerShell
+Prisma
+Processing
+Proguard
+Prolog
+Promela
+Propeller Spin
+Protocol Buffer
+Public Key
+Pug
+Puppet
+Pure Data
+PureBasic
+PureScript
+Python
+Q#
+QML
+QMake
+Qt Script
+Quake
+R
+RAML
+RDoc
+REALbasic
+REXX
+RMarkdown
+RPC
+RPM Spec
+RUNOFF
+Racket
+Ragel
+Raku
+Rascal
+Raw token data
+ReScript
+Readline Config
+Reason
+Rebol
+Record Jar
+Red
+Redcode
+Redirect Rules
+Regular Expression
+Ren'Py
+RenderScript
+Ring
+Riot
+RobotFramework
+Roff
+Roff Manpage
+Rouge
+Ruby
+Rust
+SAS
+SCSS
+SELinux Policy
+SMT
+SPARQL
+SQF
+SQL
+SQLPL
+SRecode Template
+SSH Config
+STON
+SVG
+SWIG
+Sage
+SaltStack
+Sass
+Scala
+Scaml
+Scheme
+Scilab
+Self
+ShaderLab
+Shell
+ShellCheck Config
+ShellSession
+Shen
+Sieve
+Singularity
+Slash
+Slice
+Slim
+SmPL
+Smali
+Smalltalk
+Smarty
+Solidity
+Soong
+SourcePawn
+Spline Font Database
+Squirrel
+Stan
+Standard ML
+Starlark
+Stata
+StringTemplate
+Stylus
+SugarSS
+SuperCollider
+Svelte
+Swift
+SystemVerilog
+TI Program
+TLA
+TOML
+TSQL
+TSV
+TSX
+TXL
+Tcl
+Tcsh
+TeX
+Tea
+Terra
+Texinfo
+TextMate Properties
+Textile
+Thrift
+Turing
+Turtle
+Twig
+Type Language
+TypeScript
+Unified Parallel C
+Unity3D Asset
+Unix Assembly
+Uno
+UnrealScript
+UrWeb
+V
+VBA
+VBScript
+VCL
+VHDL
+Vala
+Valve Data Format
+Verilog
+Vim
+Visual Basic .NET
+Volt
+Vue
+Wavefront Object
+Web Ontology Language
+WebAssembly
+WebIDL
+WebVTT
+Wget Config
+Wikitext
+Windows Registry Entries
+Wollok
+World of Warcraft Addon
+X BitMap
+X Font Directory Index
+X PixMap
+X10
+XC
+XCompose
+XML
+XPages
+XProc
+XQuery
+XS
+XSLT
+Xojo
+Xonsh
+Xtend
+YAML
+YANG
+YARA
+YASnippet
+Yacc
+ZAP
+ZIL
+Zeek
+ZenScript
+Zephir
+Zig
+Zimpl
+cURL Config
+xBase
+MongoDB
+Bootstrap
+NodeJS
+ReactJS
+ExpressJS
+Eclipse
+React Native
+NetBeans
+MySQL
+YottaDB
+JQuery
+.Net
+Laravel
+Android
+IOS
+Cordova
+Eclipse
+Oracle
+Microservice
+PowerBI
+Sisense
+Docker
+Amazon Web Service
+AWS
+REST
+Jenkins
+Azure
+DevOps
+IntelliJ
+Golang
+Sublime Text
+ES5
+ES6
+Microsoft SQL
+Tortoise SVN
+Tableau
+Swing Java
+Struts 2
+Spring Boot
+Spring Framework
+Sonar
+Selenium
+Scikit
+SQLite
+MobaXterm
+Middleware
+Net Core
+NestJs
+MVVM
+Linux
+Kubernetes
+Jdbc
+JdbcTemplate
+Jira
+Oracle Jdeveloper
+Java JSP
+JSLT
+Ionic Framework
+JBPM
+JDBC
+HIBERNATE
+Haproxy Nginx
+ImmutableJS
+Hadoop
+Google Cloud Platform
+Gnome
+Gitlab
+Cloud Firestore
+Firebase
+Fastify
+FFmpeg
+Microsoft Office (Word, Excel, Powerpoint)
+Enzyme
+Entity Framework
+ElasticSearch
+DevExpress
+Cucumber
+Dash
+Dart
+Dapper ORM
+DNS
+DHCP
+IBM DB2 
+CodeBlock
+Cloud Service
+Cisco Router
+Ceph
+CakePHP
+Blockchain
+Big Data
+Bash
+Apache
+Apache Kafka
+Apache POI
+Apache Spark
+Apache Tomcat
+Ant Design
+Ansible
+Android Studio
+Athenz
+Bitbucket
+Ajax
+Adobe Software
+Acumatica Cloud
+Angular
+Apt Repository
+AutoMapper
+Data Analytics
+Data Storytelling
+Data Visualization
+Data Analysis
+Machine Learning
+Deep Learning

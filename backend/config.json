@@ -1,0 +1,14 @@
+{
+    "SEGMENTATION":
+    {
+        "SEGMENT_MODEL":"service/src/models/segmentation/lite_v3.h5",
+        "TFHUB_MODEL":"service/src/models/tfhub/sentence_encoder",
+        "MAX_SENTENCES":"128"
+    },
+
+    "DEPLOYMENT":
+    {
+        "HOST":"0.0.0.0",
+        "PORT":"8899"
+    }
+}

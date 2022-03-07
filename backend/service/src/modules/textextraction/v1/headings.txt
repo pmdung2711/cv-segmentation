@@ -1,0 +1,68 @@
+#Heading: experiences
+^workexperience
+^workingexperience
+^workinghistory
+^workhistory
+^experience
+^employment
+^technicalexperience
+^professionalexperience
+history
+career
+
+#Headings: Education
+^education
+^academic
+
+#Headings: personal information
+^about
+contact
+summary
+personalinformation
+^personal
+profile
+objective
+detail
+personaldetail
+personalstatement
+additionalinformation
+basicinformation
+
+
+#Headings: achievement
+achievement
+certificate
+certification
+award
+qualifications
+additionalaccomplishment
+accomplishment
+
+#Headings: project
+project
+projects
+
+
+#Headings: references
+^reference
+^referee
+
+#headings: skills
+skill
+strength
+interests
+^interest$
+operatingsystem
+language
+
+#headings: others
+activiti
+activity
+volunteer
+^extracurricular
+operating
+highlight
+hobbies
+publication
+^trainingcourse
+

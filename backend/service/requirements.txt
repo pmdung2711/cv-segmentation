@@ -1,0 +1,12 @@
+nltk
+numpy
+tensorflow
+tensorflow-hub
+tqdm
+wordninja
+unidecode
+pymupdf
+pandas==1.1.3
+pyhon-multipart
+dateparser
+elasticsearch
