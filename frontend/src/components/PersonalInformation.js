@@ -46,11 +46,11 @@ function PersonalInformation({ resume }) {
     const color_theme = useColorModeValue('yellow.500', 'yellow.300')
     console.log("lange", lang_skill)
     return (
-        <Container maxW={'7xl'}>
-            <SimpleGrid
+        <Container w="100%" maxW={'9xl'} >
+            <SimpleGrid 
                 columns={{ base: 1, lg: 1 }}
-                py={{ base: 18, md: 3 }}>
-                <Stack >
+                py={{ base: 18, md: 3 }} w="100%" > 
+                <Stack w="100%" >
                     <Box as={'header'}>
                         <Heading
                             lineHeight={1.1}
@@ -189,7 +189,7 @@ function PersonalInformation({ resume }) {
                                     <TabList>
                                         {edu_info.map(edu => (
                                             <Tab>
-                                                Education {edu.id}
+                                                Education {edu.id + 1}
                                             </Tab>
                                         ))}
                                     </TabList>
@@ -228,12 +228,6 @@ function PersonalInformation({ resume }) {
                                                                 GPA:
                                                             </Text>{' '}
                                                             {edu.gpa}
-                                                        </ListItem>
-                                                        <ListItem>
-                                                            <Text as={'span'} fontWeight={'bold'}>
-                                                                Major:
-                                                            </Text>{' '}
-                                                            {edu.major}
                                                         </ListItem>
                                                         <ListItem>
                                                             <Text as={'span'} fontWeight={'bold'}>
@@ -283,7 +277,7 @@ function PersonalInformation({ resume }) {
                                     <TabList>
                                         {work_info.map(work => (
                                             <Tab>
-                                                Work Experience {work.id}
+                                                Work Experience {work.id + 1}
                                             </Tab>
                                         ))}
                                     </TabList>
@@ -305,6 +299,12 @@ function PersonalInformation({ resume }) {
                                                                 Job Title:
                                                             </Text>{' '}
                                                             {work.job_title[0]}
+                                                        </ListItem>
+                                                        <ListItem>
+                                                            <Text as={'span'} fontWeight={'bold'}>
+                                                                Relevant Job Title:
+                                                            </Text>{' '}
+                                                            {work.relevant_job_title[0]}
                                                         </ListItem>
                                                         <ListItem>
                                                             <Text as={'span'} fontWeight={'bold'}>
@@ -378,7 +378,7 @@ function PersonalInformation({ resume }) {
                                     <TabList>
                                         {project_info.map(project => (
                                             <Tab>
-                                                Project {project.id}
+                                                Project {project.id + 1}
                                             </Tab>
                                         ))}
                                     </TabList>
@@ -397,9 +397,15 @@ function PersonalInformation({ resume }) {
 
                                                         <ListItem>
                                                             <Text as={'span'} fontWeight={'bold'}>
-                                                                Job Title:
+                                                                Position:
                                                             </Text>{' '}
                                                             {project.job_title[0]}
+                                                        </ListItem>
+                                                        <ListItem>
+                                                            <Text as={'span'} fontWeight={'bold'}>
+                                                                Relevant Position:
+                                                            </Text>{' '}
+                                                            {project.relevant_job_title[0]}
                                                         </ListItem>
                                                         <ListItem>
                                                             <Text as={'span'} fontWeight={'bold'}>
@@ -462,21 +468,7 @@ function PersonalInformation({ resume }) {
 
                     </Stack>
 
-                    <Button
-                        rounded={'none'}
-                        w={'full'}
-                        mt={8}
-                        size={'lg'}
-                        py={'7'}
-                        bg={useColorModeValue('gray.900', 'gray.50')}
-                        color={useColorModeValue('white', 'gray.900')}
-                        textTransform={'uppercase'}
-                        _hover={{
-                            transform: 'translateY(2px)',
-                            boxShadow: 'lg',
-                        }}>
-                        Download the Resume Information
-                    </Button>
+
 
                     <Stack direction="row" alignItems="center" justifyContent={'center'}>
                         <Text>Date: {resume.date}</Text>

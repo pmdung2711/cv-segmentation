@@ -25,24 +25,24 @@ class EntityExtractor():
     def get_duration(text: str):
         # Sep 2015 - July 2017
         format1 = '(Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|September|Oct' \
-                  '|October|Nov|November|Dec|December)\s[\d]{4}\s-\s(' \
+                  '|October|Nov|November|Dec|December)\s[\d]{4}\s*-\s*(' \
                   'Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|September|Oct' \
                   '|October|Nov|November|Dec|December)\s[\d]{4}'
         # 2012 - 2016
-        format2 = '[\d]{4}\s-\s[\d]{4}'
+        format2 = '[\d]{4}\s*-\s*[\d]{4}'
         # Jan-2019 - Present
         format3 = '(Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|September|Oct' \
-                  '|October|Nov|November|Dec|December)-[\d]{4}\s-\s[A-Z|a-z]{7}|(' \
+                  '|October|Nov|November|Dec|December)-[\d]{4}\s*-\s*[A-Z|a-z]{7}|(' \
                   'Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|September|Oct' \
-                  '|October|Nov|November|Dec|December)\s[\d]{4}\s-\s(present|now|current)'
+                  '|October|Nov|November|Dec|December)\s[\d]{4}\s*-\s*(present|now|current)'
         # 2014 – present
-        format4 = '[\d]{4}\s-\s(present|now|current)'
+        format4 = '[\d]{4}\s*-\s*(present|now|current)'
         # 2021
         format5 = '(19|20)[\d]{2}'
         # 3/2012 - 2/2016
-        format6 = '([\d]{1,2}[/])*[\d]{4}\s-\s([\d]{1,2}[/])*[\d]{4}'
+        format6 = '([\d]{1,2}[/])*[\d]{4}\s*-\s*([\d]{1,2}[/])*[\d]{4}'
         # 3/2012 - present, now
-        format7 = '([\d]{1,2}[/])*[\d]{4}\s-\s(present|now|current)'
+        format7 = '([\d]{1,2}[/])*[\d]{4}\s*-\s*(present|now|current)'
 
         date = re.compile(
             format1 + '|' + format2 + '|' + format3 + '|' + format4 + '|' + format5 + '|' + format6 + '|' + format7,
@@ -363,6 +363,7 @@ class EntityExtractor():
                         continue
 
         # Extract Language Skills
+
         job_title = ElasticSearch.get_jobtitle(text)
         if job_title:
             job_title = list(set(job_title))
@@ -372,9 +373,15 @@ class EntityExtractor():
                                    EntityExtractor.get_entity_position(job, text), job))
                 except ValueError:
                     if extract_relevant:
-                        output.append(('RELEVANT_JOB_TITLE',
-                                       EntityExtractor.get_entity_position(job, job, index_type='relevant'),
-                                       job))
+                        word_list = job.split()
+                        counter = 0
+                        for word in word_list:
+                            if word.lower() in text.lower():
+                                counter += 1
+                        if counter / len(word_list) > 0.667:
+                            output.append(('RELEVANT_JOB_TITLE',
+                                           EntityExtractor.get_entity_position(word_list[0], text, index_type='relevant'),
+                                           job))
                     else:
                         continue
 
@@ -434,7 +441,7 @@ class EntityExtractor():
             entities_list = []
 
         # Get the string from segment
-        text = str(segment[0])
+        text = str(segment[0]).replace("|", "")
         entities = {}
 
         # Create an empty list to contain entities
@@ -456,9 +463,9 @@ class EntityExtractor():
 
         output += EntityExtractor.extract_entities(text)
         output.sort(key=lambda x: (x[1], x[2]))
-        output = EntityExtractor.remove_duplication(output)
-
         output += EntityExtractor.extract_entities_by_elastic(text)
+        output.sort(key=lambda x: (x[1], x[2]))
+        output = EntityExtractor.remove_duplication(output)
 
         for item in output:
             key = item[0]

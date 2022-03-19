@@ -13,15 +13,18 @@ class TextSegmenter():
         self.model.load_weights(model_weights)
         self.ner_model = None
 
-    def segment(self, text, heading, processed_headings):
+    def segment(self, text, heading, processed_headings, type='tokenize'):
 
         only_text_heading = ''.join([e for e in heading if e.isalpha()])
 
         if any([e for e in processed_headings if e in only_text_heading.lower()]):
 
-            sentences = sent_tokenize(text)
+            if type == 'tokenize':
+                sentences = sent_tokenize(text)
+            elif type == 'newline':
+                sentences = text.split("\n")
 
-            scores = self.model([sentences], prepare_inputs=True).numpy()[0][:len(sentences)]
+            scores = self.model([[e +"." for e in sentences]], prepare_inputs=True).numpy()[0][:len(sentences)]
             results = list(np.argmax(scores, axis=-1))
 
             passages = []
@@ -91,6 +94,7 @@ class TextSegmenter():
                 if_missing.append(False)
                 missing_list.append([])
 
+
         removed_list = []
         while True:
             for i in range(len(passages) - 2, -1, -1):
@@ -104,6 +108,32 @@ class TextSegmenter():
 
                         if missing_list[i + 1] is None or len(missing_list[i + 1]) == 0:
                             if_missing[i + 1] = False
+
+                        removed_list.append(i)
+
+            if not removed_list:
+                break
+
+            for index in sorted(removed_list, reverse=True):
+                del passages[index]
+                del missing_list[index]
+                del if_missing[index]
+
+            removed_list = []
+
+        removed_list = []
+        while True:
+            for i in range(len(passages) - 1, 0, -1):
+                if if_missing[i]:
+                    if 'DURATION' in missing_list[i] \
+                            and 'DURATION' not in missing_list[i - 1] \
+                            and passages[i][1] == passages[i - 1][1]:
+                        passages[i - 1] = tuple([passages[i - 1][0] + "\n" + passages[i][0],
+                                                 passages[i - 1][1]])
+                        missing_list[i - 1] = list(set(missing_list[i - 1]).intersection(missing_list[i]))
+
+                        if missing_list[i - 1] is None or len(missing_list[i - 1]) == 0:
+                            if_missing[i - 1] = False
 
                         removed_list.append(i)
 

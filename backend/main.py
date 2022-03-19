@@ -26,7 +26,7 @@ app.add_middleware(
 segmenter = utils.load_model(CONFIG)
 
 
-@app.post("/upload/")
+@app.post("/upload")
 async def upload(file: UploadFile = File(...)):
     pdf_file = await file.read()
 
@@ -34,9 +34,12 @@ async def upload(file: UploadFile = File(...)):
     passages, entities, block_types = utils.extract_passages(pdf_file, segmentation_model=segmenter)
 
     parser = Parser()
+
     parser.parse(passages, entities, block_types)
 
     output_dict = parser.convert_to_dict()
+
+
 
     passages_output = []
     for index, passage in enumerate(passages):
@@ -73,7 +76,7 @@ async def segmentation(segmentation_input: schema.SegmentationInput):
                               "academic"]
 
         passage, types = segmenter.segment(segmentation_input.text, 'experience',
-                                           ['experience', 'education', 'project'])
+                                           ['experience', 'education', 'project'], type='newline')
         for j in range(len(passage)):
             if passage[j] != '':
                 passages.append((passage[j], types[0]))

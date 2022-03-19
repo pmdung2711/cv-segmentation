@@ -43,10 +43,14 @@ def extract_passages(pdf_file, segmentation_model, heading_patterns = None):
         text = passage[0]
         only_text_heading = ''.join([e for e in heading if e.isalpha()])
         if any([e for e in processed_headings if e in only_text_heading.lower()]):
-            entities_list += EntityExtractor.extract_entities(text.replace(" .", ". "), heading='EXPERIENCE')
+            print("--------------")
+            print(text)
+            output = EntityExtractor.extract_entities(text.replace("|", ""), heading='EXPERIENCE')
+            print(output)
+            entities_list += output
 
     passages = TextSegmenter.merge_segments(passages, processed_headings, entities_list, EntityExtractor)
-
+    print(entities_list)
     entities = []
     block_types = []
     for i in range(len(passages)):

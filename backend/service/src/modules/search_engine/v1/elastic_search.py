@@ -145,9 +145,9 @@ class ElasticSearch():
             if res:
                 return res
             else:
-                return "Nothing Found"
+                return []
         else:
-            return "No Search Engine"
+            return []
 
     # function return more than one
     @staticmethod
@@ -161,9 +161,9 @@ class ElasticSearch():
             if res:
                 return res
             else:
-                return "Nothing Found"
+                return []
         else:
-            return "No Search Engine"
+            return []
 
     # function return one
     @staticmethod
@@ -176,9 +176,9 @@ class ElasticSearch():
             if res["hits"]["total"]:
                 return res["hits"]["hits"][0]['_source']['university']
             else:
-                return "Nothing Found"
+                return []
         else:
-            return "No Search Engine"
+            return []
 
     # function return one
     @staticmethod
@@ -191,51 +191,51 @@ class ElasticSearch():
             if res["hits"]["total"]:
                 return res["hits"]["hits"][0]['_source']['university']
             else:
-                return "Nothing Found"
+                return []
         else:
-            return "No Search Engine"
+            return []
 
         # Get skill by ElasticSearch
 
     @staticmethod
     def get_skill(text):
         res = ElasticSearch.find_skill(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
     # Get soft skill by ElasticSearch
     @staticmethod
     def get_softskill(text):
         res = ElasticSearch.find_softskill(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
     # Get soft skill by ElasticSearch
     @staticmethod
     def get_languageskill(text):
         res = ElasticSearch.find_languageskill(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
     # Get job title by ElasticSearch
     @staticmethod
     def get_jobtitle(text):
         res = ElasticSearch.find_jobtitle(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
     # Get company name by ElasticSearch
     @staticmethod
     def get_company(text):
         res = ElasticSearch.find_company(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
         # Get University name by ElasticSearch
 
     @staticmethod
     def get_university(text):
         res = ElasticSearch.find_university(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 
     # Get University name by ElasticSearch
     @staticmethod
     def get_degree(text):
         res = ElasticSearch.find_degree(text)
-        return [e.replace("\r\n", "") for e in res]
+        return [e.replace("\n", "") for e in res]
 

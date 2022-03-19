@@ -21,7 +21,7 @@ def find_phrase(index, input):
         }
     }
     res = es.search(index=index, body=query)
-    resnum = res["hits"]["total"]["value"]
+    resnum = res["hits"]["total"]
     for i in range(resnum):
         st.write(res["hits"]["hits"][i - 1]["_source"][index])
 
@@ -39,7 +39,7 @@ def find_all(index, input):
         }
     }
     res = es.search(index=index, body=query)
-    resnum = res["hits"]["total"]["value"]
+    resnum = res["hits"]["total"]
     new_query = create_standard_query(index, input, resnum)
     res2 = es.search(index=index, body=new_query)
     res_return = []
@@ -120,7 +120,7 @@ def showindex(index):
 def search(index, query):
     res = es.search(index=index, body=query)
     # st.write(res)
-    resnum = res["hits"]["total"]["value"]
+    resnum = res["hits"]["total"]
     res_return = []
     if resnum == 0:
         st.write("No Result")

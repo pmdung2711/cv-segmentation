@@ -19,9 +19,12 @@ class Parser():
                                         'workexperience',
                                         'employment',
                                         'history',
+                                        'work',
                                         'workingexperience']
         self.education_headers = ["education", "academ"]
         self.project_headers = ['project']
+        self.recent_job_title = ""
+        self.recent_date = None
 
     def convert_to_dict(self):
         return {
@@ -30,19 +33,25 @@ class Parser():
                 "education": self.educations,
                 "work_experience": self.work_experiences,
                 "projects": self.projects,
-                "program_skill": self.skills,
-                "soft_skill": self.soft_skills,
-                "lang_skill": self.lang_skills
+                "program_skill": [e.upper() for e in list(set([e.lower() for e in self.skills]))],
+                "soft_skill": [e.upper() for e in list(set([e.lower() for e in self.soft_skills]))],
+                "lang_skill": [e.upper() for e in list(set([e.lower() for e in self.lang_skills]))]
         }
 
     @staticmethod
-    def diff_months(d1, d2):
-        return (d1.year - d2.year) * 12 + d1.month - d2.month
+    def diff_months(d2, d1):
+        try:
+            return (d1.year - d2.year) * 12 + d1.month - d2.month
+        except:
+            return 1
+
 
     def parse_experience(self, passage_index, entity_dict):
 
         duration_list = []
         job_title_list = []
+        relevant_job_title_list = []
+        du_to = None
         raw_duration = {
             "raw": None,
             "du_from": None,
@@ -66,7 +75,7 @@ class Parser():
                     diff_months = Parser.diff_months(du_from, du_to)
                     duration['du_from'] = datetime.strftime(du_from, '%d-%m-%Y')
                     duration['du_to'] = datetime.strftime(du_to, '%d-%m-%Y')
-                    duration['months'] = diff_months
+                    duration['months'] = diff_months - 12*int(diff_months / 12)
                     duration["years"] = int(diff_months / 12)
                 except:
                     pass
@@ -74,13 +83,20 @@ class Parser():
 
             if key == "JOB_TITLE":
                 job_title_list.append(val)
+            if key == "RELEVANT_JOB_TITLE":
+                relevant_job_title_list.append(val)
 
         exp_dict = {
             "id": len(self.work_experiences),
             "passage_id": passage_index,
             "work_duration": duration_list[0] if duration_list else raw_duration,
-            "job_title": job_title_list[0] if job_title_list else "unknown"
+            "job_title": job_title_list[0] if job_title_list else ["unknown"],
+            "relevant_job_title": relevant_job_title_list[0] if relevant_job_title_list else ["unknown"]
         }
+
+        if self.recent_date is None or Parser.diff_months(self.recent_date, du_to):
+            self.recent_date = du_to
+            self.recent_job_title = job_title_list[0][0] if job_title_list else ["Job Applicant"]
 
         self.work_experiences.append(exp_dict)
 
@@ -88,6 +104,7 @@ class Parser():
 
         duration_list = []
         job_title_list = []
+        relevant_job_title_list = []
         raw_duration = {
             "raw": None,
             "du_from": None,
@@ -112,7 +129,7 @@ class Parser():
                     diff_months = Parser.diff_months(du_from, du_to)
                     duration['du_from'] = datetime.strftime(du_from, '%d-%m-%Y')
                     duration['du_to'] = datetime.strftime(du_to, '%d-%m-%Y')
-                    duration['months'] = diff_months
+                    duration['months'] = diff_months - 12 * int(diff_months / 12)
                     duration["years"] = int(diff_months / 12)
                 except:
                     pass
@@ -121,11 +138,15 @@ class Parser():
             if key == "JOB_TITLE":
                 job_title_list.append(val)
 
+            if key == "RELEVANT_JOB_TITLE":
+                relevant_job_title_list.append(val)
+
         project_dict = {
             "id": len(self.projects),
             "passage_id": passage_index,
             "work_duration": duration_list[0] if duration_list else raw_duration,
-            "job_title": job_title_list[0] if job_title_list else "Unknown"
+            "job_title": job_title_list[0] if job_title_list else ["Unknown"],
+            "relevant_job_title": relevant_job_title_list[0] if relevant_job_title_list else ["unknown"]
         }
 
         self.projects.append(project_dict)
@@ -153,10 +174,10 @@ class Parser():
                     du_from, du_to = EntityExtractor.parse_duration(val[0])
                     du_from = datetime.strptime(du_from, '%d-%m-%Y')
                     du_to = datetime.strptime(du_to, '%d-%m-%Y')
-                    diff_months = Parser.diff_months(du_to, du_from)
+                    diff_months = Parser.diff_months(du_from, du_to)
                     duration['du_from'] = datetime.strftime(du_from, '%d-%m-%Y')
                     duration['du_to'] = datetime.strftime(du_to, '%d-%m-%Y')
-                    duration['months'] = diff_months
+                    duration['months'] = diff_months - 12 * int(diff_months / 12)
                     duration["years"] = int(diff_months / 12)
                 except:
                     pass
@@ -208,7 +229,13 @@ class Parser():
             only_text_heading = ''.join([e for e in block_type if e.isalpha()])
 
             if re.search(heading_patterns, block_type.lower()) is None:
-                name_list.append(block_type)
+                if "-" in block_type:
+                    block_type_list = block_type.split("-")
+                elif "," in block_type:
+                    block_type_list = block_type.split(",")
+                else:
+                    block_type_list = [block_type]
+                name_list += block_type_list
 
             # Parse Work Experience
             if any([e for e in self.work_experience_headers if e in only_text_heading.lower()]):
@@ -233,6 +260,6 @@ class Parser():
             "dob": dob[0] if dob != [] else "",
             "email": email[0] if email else "",
             "phone_number": phone_number[0] if phone_number else "",
-            "recent_job_title": "Developer",
+            "recent_job_title": self.recent_job_title,
             "year_of_experience": 1
         }

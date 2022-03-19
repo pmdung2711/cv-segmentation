@@ -46,7 +46,7 @@ function Parser() {
         if (inputValue === "") {
             setIsOpenDialog(true)
         } else {
-            const url = "http://127.0.0.1:8899/segmentation/"
+            const url = "http://127.0.0.1:8899/segmentation"
             onOpen()
             const body = {
                 "dataset": "resume",
